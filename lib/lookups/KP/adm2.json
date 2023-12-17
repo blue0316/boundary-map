@@ -1,0 +1,1099 @@
+{
+    "polyTilesetName": "mapbox.boundaries-adm2-v4",
+    "pointLayerName": "points_admin_2",
+    "polyLayerName": "boundaries_admin_2",
+    "description": "county",
+    "all": {
+        "dXJuOm1ieGJuZDpBUlI1OnY0": {
+            "name": "중화군",
+            "code": "0101",
+            "name_en": "Chunghwa-gun",
+            "wikidata_id": "Q704949"
+        },
+        "dXJuOm1ieGJuZDpBaFI1OnY0": {
+            "name": "강동군",
+            "code": "0102",
+            "name_en": "Kangdong-gun",
+            "wikidata_id": "Q224927"
+        },
+        "dXJuOm1ieGJuZDpBeFI1OnY0": {
+            "name": "강남군",
+            "code": "0103",
+            "name_en": "Kangnam-gun",
+            "wikidata_id": "Q196331"
+        },
+        "dXJuOm1ieGJuZDpCQlI1OnY0": {
+            "name": "평양 직할시",
+            "code": "0104",
+            "name_en": "Pyongyang",
+            "wikidata_id": "Q18808"
+        },
+        "dXJuOm1ieGJuZDpCUlI1OnY0": {
+            "name": "상원군",
+            "code": "0105",
+            "name_en": "Sangwon-gun",
+            "wikidata_id": "Q705055"
+        },
+        "dXJuOm1ieGJuZDpCaFI1OnY0": {
+            "name": "안주시",
+            "code": "0201",
+            "name_en": "Anju-si",
+            "wikidata_id": "Q196236"
+        },
+        "dXJuOm1ieGJuZDpCeFI1OnY0": {
+            "name": "청남구",
+            "code": "0202",
+            "name_en": "Ch'ongnam-gu",
+            "wikidata_id": "Q715914"
+        },
+        "dXJuOm1ieGJuZDpDQlI1OnY0": {
+            "name": "증산군",
+            "code": "0203",
+            "name_en": "Chungsan-gun",
+            "wikidata_id": "Q715964"
+        },
+        "dXJuOm1ieGJuZDpDUlI1OnY0": {
+            "name": "회창군",
+            "code": "0204",
+            "name_en": "Hoech'ang-gun",
+            "wikidata_id": "Q715757"
+        },
+        "dXJuOm1ieGJuZDpDaFI1OnY0": {
+            "name": "개천시",
+            "code": "0205",
+            "name_en": "Kaech'on-si",
+            "wikidata_id": "Q716127"
+        },
+        "dXJuOm1ieGJuZDpDeFI1OnY0": {
+            "name": "맹산군",
+            "code": "0206",
+            "name_en": "Maengsan-gun",
+            "wikidata_id": "Q715911"
+        },
+        "dXJuOm1ieGJuZDpEQlI1OnY0": {
+            "name": "문덕군",
+            "code": "0207",
+            "name_en": "Mundok-gun",
+            "wikidata_id": "Q715741"
+        },
+        "dXJuOm1ieGJuZDpEUlI1OnY0": {
+            "name": "북창군",
+            "code": "0208",
+            "name_en": "Pukch'ang-gun",
+            "wikidata_id": "Q715736"
+        },
+        "dXJuOm1ieGJuZDpEaFI1OnY0": {
+            "name": "평성시",
+            "code": "0209",
+            "name_en": "P'yongsong-si",
+            "wikidata_id": "Q514136"
+        },
+        "dXJuOm1ieGJuZDpEeFI1OnY0": {
+            "name": "평원군",
+            "code": "0210",
+            "name_en": "P'yongwon-gun",
+            "wikidata_id": "Q715926"
+        },
+        "dXJuOm1ieGJuZDpFQlI1OnY0": {
+            "name": "신양군",
+            "code": "0211",
+            "name_en": "Sinyang-gun",
+            "wikidata_id": "Q715730"
+        },
+        "dXJuOm1ieGJuZDpFUlI1OnY0": {
+            "name": "성천군",
+            "code": "0212",
+            "name_en": "Songch'on-gun",
+            "wikidata_id": "Q715793"
+        },
+        "dXJuOm1ieGJuZDpFaFI1OnY0": {
+            "name": "숙천군",
+            "code": "0213",
+            "name_en": "Sukch'on-gun",
+            "wikidata_id": "Q86836"
+        },
+        "dXJuOm1ieGJuZDpFeFI1OnY0": {
+            "name": "순천시",
+            "code": "0214",
+            "name_en": "Sunch'on-si",
+            "wikidata_id": "Q715946"
+        },
+        "dXJuOm1ieGJuZDpGQlI1OnY0": {
+            "name": "대동군",
+            "code": "0215",
+            "name_en": "Taedong-gun",
+            "wikidata_id": "Q196271"
+        },
+        "dXJuOm1ieGJuZDpGUlI1OnY0": {
+            "name": "대흥군",
+            "code": "0216",
+            "name_en": "Taehung-gun",
+            "wikidata_id": "Q715771"
+        },
+        "dXJuOm1ieGJuZDpGaFI1OnY0": {
+            "name": "덕천시",
+            "code": "0217",
+            "name_en": "Tokch'on-si",
+            "wikidata_id": "Q715931"
+        },
+        "dXJuOm1ieGJuZDpGeFI1OnY0": {
+            "name": "득장지구",
+            "code": "0218",
+            "name_en": "Tukchang-jigu",
+            "wikidata_id": "Q1133311"
+        },
+        "dXJuOm1ieGJuZDpHQlI1OnY0": {
+            "name": "운곡지구",
+            "code": "0219",
+            "name_en": "Ungok-chigu",
+            "wikidata_id": "Q1133303"
+        },
+        "dXJuOm1ieGJuZDpHUlI1OnY0": {
+            "name": "양덕군",
+            "code": "0221",
+            "name_en": "Yangdok-gun",
+            "wikidata_id": "Q715724"
+        },
+        "dXJuOm1ieGJuZDpHaFI1OnY0": {
+            "name": "은산군",
+            "code": "0224",
+            "name_en": "Unsan-gun",
+            "wikidata_id": "Q715905"
+        },
+        "dXJuOm1ieGJuZDpHeFI1OnY0": {
+            "name": "창성군",
+            "code": "0301",
+            "name_en": "Ch'angsong-gun",
+            "wikidata_id": "Q706048"
+        },
+        "dXJuOm1ieGJuZDpIQlI1OnY0": {
+            "name": "철산군",
+            "code": "0302",
+            "name_en": "Ch'olsan-gun",
+            "wikidata_id": "Q705468"
+        },
+        "dXJuOm1ieGJuZDpIUlI1OnY0": {
+            "name": "정주시",
+            "code": "0303",
+            "name_en": "Chongju-si",
+            "wikidata_id": "Q213169"
+        },
+        "dXJuOm1ieGJuZDpIaFI1OnY0": {
+            "name": "천마군",
+            "code": "0304",
+            "name_en": "Ch'onma-gun",
+            "wikidata_id": "Q705728"
+        },
+        "dXJuOm1ieGJuZDpIeFI1OnY0": {
+            "name": "향산군",
+            "code": "0305",
+            "name_en": "Hyangsan-gun",
+            "wikidata_id": "Q705492"
+        },
+        "dXJuOm1ieGJuZDpJQlI1OnY0": {
+            "name": "구장군",
+            "code": "0306",
+            "name_en": "Kujang-gun",
+            "wikidata_id": "Q705795"
+        },
+        "dXJuOm1ieGJuZDpJUlI1OnY0": {
+            "name": "구성시",
+            "code": "0307",
+            "name_en": "Kusong-si",
+            "wikidata_id": "Q431845"
+        },
+        "dXJuOm1ieGJuZDpJaFI1OnY0": {
+            "name": "곽산군",
+            "code": "0308",
+            "name_en": "Kwaksan-gun",
+            "wikidata_id": "Q705761"
+        },
+        "dXJuOm1ieGJuZDpJeFI1OnY0": {
+            "name": "녕변군",
+            "code": "0309",
+            "name_en": "Nyongbyon-gun",
+            "wikidata_id": "Q4984076"
+        },
+        "dXJuOm1ieGJuZDpKQlI1OnY0": {
+            "name": "박천군",
+            "code": "0310",
+            "name_en": "Pakch'on-gun",
+            "wikidata_id": "Q705768"
+        },
+        "dXJuOm1ieGJuZDpKUlI1OnY0": {
+            "name": "피현군",
+            "code": "0311",
+            "name_en": "P'ihyon-gun",
+            "wikidata_id": "Q706054"
+        },
+        "dXJuOm1ieGJuZDpKaFI1OnY0": {
+            "name": "벽동군",
+            "code": "0312",
+            "name_en": "Pyoktong-gun",
+            "wikidata_id": "Q706030"
+        },
+        "dXJuOm1ieGJuZDpKeFI1OnY0": {
+            "name": "룡천군",
+            "code": "0313",
+            "name_en": "Ryongch'on-gun",
+            "wikidata_id": "Q586891"
+        },
+        "dXJuOm1ieGJuZDpLQlI1OnY0": {
+            "name": "삭주군",
+            "code": "0314",
+            "name_en": "Sakchu-gun",
+            "wikidata_id": "Q225068"
+        },
+        "dXJuOm1ieGJuZDpLUlI1OnY0": {
+            "name": "신도군",
+            "code": "0315",
+            "name_en": "Sindo-gun",
+            "wikidata_id": "Q702644"
+        },
+        "dXJuOm1ieGJuZDpLaFI1OnY0": {
+            "name": "신의주시",
+            "code": "0316",
+            "name_en": "Sinuiju-si",
+            "wikidata_id": "Q156243"
+        },
+        "dXJuOm1ieGJuZDpLeFI1OnY0": {
+            "name": "선천군",
+            "code": "0317",
+            "name_en": "Sonch'on-gun",
+            "wikidata_id": "Q705831"
+        },
+        "dXJuOm1ieGJuZDpMQlI1OnY0": {
+            "name": "태천군",
+            "code": "0318",
+            "name_en": "T'aech'on-gun",
+            "wikidata_id": "Q706060"
+        },
+        "dXJuOm1ieGJuZDpMUlI1OnY0": {
+            "name": "대관군",
+            "code": "0319",
+            "name_en": "Taegwan-gun",
+            "wikidata_id": "Q705749"
+        },
+        "dXJuOm1ieGJuZDpMaFI1OnY0": {
+            "name": "동창군",
+            "code": "0320",
+            "name_en": "Tongch'ang-gun",
+            "wikidata_id": "Q705717"
+        },
+        "dXJuOm1ieGJuZDpMeFI1OnY0": {
+            "name": "동림군",
+            "code": "0321",
+            "name_en": "Tongrim-gun",
+            "wikidata_id": "Q705745"
+        },
+        "dXJuOm1ieGJuZDpNQlI1OnY0": {
+            "name": "의주군",
+            "code": "0322",
+            "name_en": "Uiju-gun",
+            "wikidata_id": "Q701248"
+        },
+        "dXJuOm1ieGJuZDpNUlI1OnY0": {
+            "name": "운전군",
+            "code": "0323",
+            "name_en": "Unjon-gun",
+            "wikidata_id": "Q705484"
+        },
+        "dXJuOm1ieGJuZDpNaFI1OnY0": {
+            "name": "운산군",
+            "code": "0324",
+            "name_en": "Unsan-gun",
+            "wikidata_id": "Q708507"
+        },
+        "dXJuOm1ieGJuZDpNeFI1OnY0": {
+            "name": "염주군",
+            "code": "0325",
+            "name_en": "Yomju-gun",
+            "wikidata_id": "Q705815"
+        },
+        "dXJuOm1ieGJuZDpOQlI1OnY0": {
+            "name": "장강군",
+            "code": "0401",
+            "name_en": "Changgang-gun",
+            "wikidata_id": "Q707395"
+        },
+        "dXJuOm1ieGJuZDpOUlI1OnY0": {
+            "name": "자성군",
+            "code": "0402",
+            "name_en": "Chasong-gun",
+            "wikidata_id": "Q698477"
+        },
+        "dXJuOm1ieGJuZDpOaFI1OnY0": {
+            "name": "전천군",
+            "code": "0403",
+            "name_en": "Chonch'on-gun",
+            "wikidata_id": "Q707402"
+        },
+        "dXJuOm1ieGJuZDpOeFI1OnY0": {
+            "name": "초산군",
+            "code": "0404",
+            "name_en": "Ch'osan-gun",
+            "wikidata_id": "Q707684"
+        },
+        "dXJuOm1ieGJuZDpPQlI1OnY0": {
+            "name": "중강군",
+            "code": "0405",
+            "name_en": "Chunggang-gun",
+            "wikidata_id": "Q430493"
+        },
+        "dXJuOm1ieGJuZDpPUlI1OnY0": {
+            "name": "희천시",
+            "code": "0406",
+            "name_en": "Huich'on-si",
+            "wikidata_id": "Q698719"
+        },
+        "dXJuOm1ieGJuZDpPaFI1OnY0": {
+            "name": "화평군",
+            "code": "0407",
+            "name_en": "Hwap'yong-gun",
+            "wikidata_id": "Q705466"
+        },
+        "dXJuOm1ieGJuZDpPeFI1OnY0": {
+            "name": "강계시",
+            "code": "0408",
+            "name_en": "Kanggye-si",
+            "wikidata_id": "Q489825"
+        },
+        "dXJuOm1ieGJuZDpQQlI1OnY0": {
+            "name": "고풍군",
+            "code": "0409",
+            "name_en": "Kop'ung-gun",
+            "wikidata_id": "Q705301"
+        },
+        "dXJuOm1ieGJuZDpQUlI1OnY0": {
+            "name": "만포시",
+            "code": "0410",
+            "name_en": "Manp'o-si",
+            "wikidata_id": "Q698064"
+        },
+        "dXJuOm1ieGJuZDpQaFI1OnY0": {
+            "name": "랑림군",
+            "code": "0411",
+            "name_en": "Rangrim-gun",
+            "wikidata_id": "Q707721"
+        },
+        "dXJuOm1ieGJuZDpQeFI1OnY0": {
+            "name": "룡림군",
+            "code": "0412",
+            "name_en": "Ryongrim-gun",
+            "wikidata_id": "Q705755"
+        },
+        "dXJuOm1ieGJuZDpRQlI1OnY0": {
+            "name": "시중군",
+            "code": "0413",
+            "name_en": "Sijung-gun",
+            "wikidata_id": "Q705461"
+        },
+        "dXJuOm1ieGJuZDpRUlI1OnY0": {
+            "name": "성간군",
+            "code": "0414",
+            "name_en": "Songgan-gun",
+            "wikidata_id": "Q705326"
+        },
+        "dXJuOm1ieGJuZDpRaFI1OnY0": {
+            "name": "송원군",
+            "code": "0415",
+            "name_en": "Songwon-gun",
+            "wikidata_id": "Q705457"
+        },
+        "dXJuOm1ieGJuZDpReFI1OnY0": {
+            "name": "동신군",
+            "code": "0416",
+            "name_en": "Tongsin-gun",
+            "wikidata_id": "Q705471"
+        },
+        "dXJuOm1ieGJuZDpSQlI1OnY0": {
+            "name": "우시군",
+            "code": "0417",
+            "name_en": "Usi-gun",
+            "wikidata_id": "Q702818"
+        },
+        "dXJuOm1ieGJuZDpSUlI1OnY0": {
+            "name": "위원군",
+            "code": "0418",
+            "name_en": "Wiwon-gun",
+            "wikidata_id": "Q705313"
+        },
+        "dXJuOm1ieGJuZDpSaFI1OnY0": {
+            "name": "안악군",
+            "code": "0501",
+            "name_en": "Anak-gun",
+            "wikidata_id": "Q705060"
+        },
+        "dXJuOm1ieGJuZDpSeFI1OnY0": {
+            "name": "재령군",
+            "code": "0502",
+            "name_en": "Chaeryong-gun",
+            "wikidata_id": "Q705265"
+        },
+        "dXJuOm1ieGJuZDpTQlI1OnY0": {
+            "name": "장연군",
+            "code": "0503",
+            "name_en": "Changyon-gun",
+            "wikidata_id": "Q705219"
+        },
+        "dXJuOm1ieGJuZDpTUlI1OnY0": {
+            "name": "청단군",
+            "code": "0504",
+            "name_en": "Ch'ongdan-gun",
+            "wikidata_id": "Q705496"
+        },
+        "dXJuOm1ieGJuZDpTaFI1OnY0": {
+            "name": "해주시",
+            "code": "0505",
+            "name_en": "Haeju-si",
+            "wikidata_id": "Q714865"
+        },
+        "dXJuOm1ieGJuZDpTeFI1OnY0": {
+            "name": "강령군",
+            "code": "0506",
+            "name_en": "Kangry'ong-gun",
+            "wikidata_id": "Q501999"
+        },
+        "dXJuOm1ieGJuZDpUQlI1OnY0": {
+            "name": "과일군",
+            "code": "0507",
+            "name_en": "Kwail-gun",
+            "wikidata_id": "Q705091"
+        },
+        "dXJuOm1ieGJuZDpUUlI1OnY0": {
+            "name": "옹진군",
+            "code": "0508",
+            "name_en": "Ongjin-gun",
+            "wikidata_id": "Q483530"
+        },
+        "dXJuOm1ieGJuZDpUaFI1OnY0": {
+            "name": "백천군",
+            "code": "0509",
+            "name_en": "Paekch'on-gun",
+            "wikidata_id": "Q705733"
+        },
+        "dXJuOm1ieGJuZDpUeFI1OnY0": {
+            "name": "봉천군",
+            "code": "0510",
+            "name_en": "Pongch'on-gun",
+            "wikidata_id": "Q705113"
+        },
+        "dXJuOm1ieGJuZDpVQlI1OnY0": {
+            "name": "벽성군",
+            "code": "0511",
+            "name_en": "Pyoksong-gun",
+            "wikidata_id": "Q705483"
+        },
+        "dXJuOm1ieGJuZDpVUlI1OnY0": {
+            "name": "룡연군",
+            "code": "0512",
+            "name_en": "Ryongyon-gun",
+            "wikidata_id": "Q705070"
+        },
+        "dXJuOm1ieGJuZDpVaFI1OnY0": {
+            "name": "삼천군",
+            "code": "0513",
+            "name_en": "Samch'on-gun",
+            "wikidata_id": "Q705108"
+        },
+        "dXJuOm1ieGJuZDpVeFI1OnY0": {
+            "name": "신천군",
+            "code": "0514",
+            "name_en": "Sinch'on-gun",
+            "wikidata_id": "Q704821"
+        },
+        "dXJuOm1ieGJuZDpWQlI1OnY0": {
+            "name": "신원군",
+            "code": "0515",
+            "name_en": "Sinwon-gun",
+            "wikidata_id": "Q705099"
+        },
+        "dXJuOm1ieGJuZDpWUlI1OnY0": {
+            "name": "송화군",
+            "code": "0516",
+            "name_en": "Songhwa-gun",
+            "wikidata_id": "Q704849"
+        },
+        "dXJuOm1ieGJuZDpWaFI1OnY0": {
+            "name": "태탄군",
+            "code": "0517",
+            "name_en": "T'aet'an-gun",
+            "wikidata_id": "Q705501"
+        },
+        "dXJuOm1ieGJuZDpWeFI1OnY0": {
+            "name": "은천군",
+            "code": "0518",
+            "name_en": "Unch'on-gun",
+            "wikidata_id": "Q705086"
+        },
+        "dXJuOm1ieGJuZDpXQlI1OnY0": {
+            "name": "은률군",
+            "code": "0519",
+            "name_en": "Unryul-gun",
+            "wikidata_id": "Q196258"
+        },
+        "dXJuOm1ieGJuZDpXUlI1OnY0": {
+            "name": "연안군",
+            "code": "0520",
+            "name_en": "Yonan-gun",
+            "wikidata_id": "Q213173"
+        },
+        "dXJuOm1ieGJuZDpXeFI1OnY0": {
+            "name": "황주군",
+            "code": "0601",
+            "name_en": "Hwangju-gun",
+            "wikidata_id": "Q705723"
+        },
+        "dXJuOm1ieGJuZDpYaFI1OnY0": {
+            "name": "곡산군",
+            "code": "0602",
+            "name_en": "Koksan-gun",
+            "wikidata_id": "Q213406"
+        },
+        "dXJuOm1ieGJuZDpYeFI1OnY0": {
+            "name": "금천군",
+            "code": "0603",
+            "name_en": "Kumch'on-gun",
+            "wikidata_id": "Q705207"
+        },
+        "dXJuOm1ieGJuZDpZUlI1OnY0": {
+            "name": "봉산군",
+            "code": "0604",
+            "name_en": "Pongsan-gun",
+            "wikidata_id": "Q705524"
+        },
+        "dXJuOm1ieGJuZDpZaFI1OnY0": {
+            "name": "평산군",
+            "code": "0605",
+            "name_en": "P'yongsan-gun",
+            "wikidata_id": "Q707881"
+        },
+        "dXJuOm1ieGJuZDpZeFI1OnY0": {
+            "name": "린산군",
+            "code": "0606",
+            "name_en": "Rinsan-gun",
+            "wikidata_id": "Q710720"
+        },
+        "dXJuOm1ieGJuZDpaQlI1OnY0": {
+            "name": "사리원시",
+            "code": "0607",
+            "name_en": "Sariwon-si",
+            "wikidata_id": "Q505807"
+        },
+        "dXJuOm1ieGJuZDpaUlI1OnY0": {
+            "name": "신계군",
+            "code": "0608",
+            "name_en": "Sin'gye-gun",
+            "wikidata_id": "Q705274"
+        },
+        "dXJuOm1ieGJuZDpaaFI1OnY0": {
+            "name": "신평군",
+            "code": "0609",
+            "name_en": "Sinp'yong-gun",
+            "wikidata_id": "Q711009"
+        },
+        "dXJuOm1ieGJuZDpaeFI1OnY0": {
+            "name": "서흥군",
+            "code": "0610",
+            "name_en": "Sohung-gun",
+            "wikidata_id": "Q196270"
+        },
+        "dXJuOm1ieGJuZDphQlI1OnY0": {
+            "name": "송림시",
+            "code": "0611",
+            "name_en": "Songrim-si",
+            "wikidata_id": "Q505930"
+        },
+        "dXJuOm1ieGJuZDphUlI1OnY0": {
+            "name": "수안군",
+            "code": "0612",
+            "name_en": "Suan-gun",
+            "wikidata_id": "Q1073395"
+        },
+        "dXJuOm1ieGJuZDphaFI1OnY0": {
+            "name": "토산군",
+            "code": "0613",
+            "name_en": "T'osan-gun",
+            "wikidata_id": "Q711044"
+        },
+        "dXJuOm1ieGJuZDpheFI1OnY0": {
+            "name": "은파군",
+            "code": "0614",
+            "name_en": "Unp'a-gun",
+            "wikidata_id": "Q705228"
+        },
+        "dXJuOm1ieGJuZDpiQlI1OnY0": {
+            "name": "연산군",
+            "code": "0615",
+            "name_en": "Yonsan-gun",
+            "wikidata_id": "Q712810"
+        },
+        "dXJuOm1ieGJuZDpiUlI1OnY0": {
+            "name": "연탄군",
+            "code": "0616",
+            "name_en": "Yontan-gun",
+            "wikidata_id": "Q711032"
+        },
+        "dXJuOm1ieGJuZDpiaFI1OnY0": {
+            "name": "안변군",
+            "code": "0701",
+            "name_en": "Anbyon-gun",
+            "wikidata_id": "Q484890"
+        },
+        "dXJuOm1ieGJuZDpieFI1OnY0": {
+            "name": "창도군",
+            "code": "0702",
+            "name_en": "Ch'angdo-gun",
+            "wikidata_id": "Q486779"
+        },
+        "dXJuOm1ieGJuZDpjQlI1OnY0": {
+            "name": "천내군",
+            "code": "0703",
+            "name_en": "Ch'onnae-gun",
+            "wikidata_id": "Q486742"
+        },
+        "dXJuOm1ieGJuZDpjUlI1OnY0": {
+            "name": "철원군",
+            "code": "0704",
+            "name_en": "Ch'orwon-gun",
+            "wikidata_id": "Q490109"
+        },
+        "dXJuOm1ieGJuZDpjaFI1OnY0": {
+            "name": "회양군",
+            "code": "0705",
+            "name_en": "Hoeyang-gun",
+            "wikidata_id": "Q490927"
+        },
+        "dXJuOm1ieGJuZDpjeFI1OnY0": {
+            "name": "이천군",
+            "code": "0706",
+            "name_en": "Ichon-gun",
+            "wikidata_id": "Q199348"
+        },
+        "dXJuOm1ieGJuZDpkQlI1OnY0": {
+            "name": "김화군",
+            "code": "0707",
+            "name_en": "Kimhwa-gun",
+            "wikidata_id": "Q485618"
+        },
+        "dXJuOm1ieGJuZDpkUlI1OnY0": {
+            "name": "고산군",
+            "code": "0708",
+            "name_en": "Kosan-gun",
+            "wikidata_id": "Q486773"
+        },
+        "dXJuOm1ieGJuZDpkaFI1OnY0": {
+            "name": "고성군",
+            "code": "0709",
+            "name_en": "Kosong-gun",
+            "wikidata_id": "Q486783"
+        },
+        "dXJuOm1ieGJuZDpkeFI1OnY0": {
+            "name": "금강군",
+            "code": "0710",
+            "name_en": "Kumgang-gun",
+            "wikidata_id": "Q487097"
+        },
+        "dXJuOm1ieGJuZDplQlI1OnY0": {
+            "name": "문천시",
+            "code": "0711",
+            "name_en": "Munchon-si",
+            "wikidata_id": "Q494606"
+        },
+        "dXJuOm1ieGJuZDplUlI1OnY0": {
+            "name": "판교군",
+            "code": "0712",
+            "name_en": "P'an'gyo-gun",
+            "wikidata_id": "Q486770"
+        },
+        "dXJuOm1ieGJuZDplaFI1OnY0": {
+            "name": "법동군",
+            "code": "0713",
+            "name_en": "Poptong-gun",
+            "wikidata_id": "Q486734"
+        },
+        "dXJuOm1ieGJuZDpleFI1OnY0": {
+            "name": "평강군",
+            "code": "0714",
+            "name_en": "P'yonggang-gun",
+            "wikidata_id": "Q487084"
+        },
+        "dXJuOm1ieGJuZDpmQlI1OnY0": {
+            "name": "세포군",
+            "code": "0715",
+            "name_en": "Sep'o-gun",
+            "wikidata_id": "Q486747"
+        },
+        "dXJuOm1ieGJuZDpmUlI1OnY0": {
+            "name": "통천군",
+            "code": "0716",
+            "name_en": "T'ongch'on-gun",
+            "wikidata_id": "Q487587"
+        },
+        "dXJuOm1ieGJuZDpmaFI1OnY0": {
+            "name": "원산시",
+            "code": "0717",
+            "name_en": "Wonsan-si",
+            "wikidata_id": "Q109374"
+        },
+        "dXJuOm1ieGJuZDpmeFI1OnY0": {
+            "name": "장진군",
+            "code": "0801",
+            "name_en": "Changjin-gun",
+            "wikidata_id": "Q702960"
+        },
+        "dXJuOm1ieGJuZDpnQlI1OnY0": {
+            "name": "정평군",
+            "code": "0802",
+            "name_en": "Chongp'yong-gun",
+            "wikidata_id": "Q715714"
+        },
+        "dXJuOm1ieGJuZDpnUlI1OnY0": {
+            "name": "함흥시",
+            "code": "0803",
+            "name_en": "Hamhung-si",
+            "wikidata_id": "Q109356"
+        },
+        "dXJuOm1ieGJuZDpnaFI1OnY0": {
+            "name": "함주군",
+            "code": "0804",
+            "name_en": "Hamju-gun",
+            "wikidata_id": "Q704935"
+        },
+        "dXJuOm1ieGJuZDpneFI1OnY0": {
+            "name": "허천군",
+            "code": "0805",
+            "name_en": "Hoch'on-gun",
+            "wikidata_id": "Q704943"
+        },
+        "dXJuOm1ieGJuZDpoQlI1OnY0": {
+            "name": "홍원군",
+            "code": "0806",
+            "name_en": "Hongwon-gun",
+            "wikidata_id": "Q707118"
+        },
+        "dXJuOm1ieGJuZDpoUlI1OnY0": {
+            "name": "고원군",
+            "code": "0807",
+            "name_en": "Kowon-gun",
+            "wikidata_id": "Q704804"
+        },
+        "dXJuOm1ieGJuZDpoaFI1OnY0": {
+            "name": "금호지구",
+            "code": "0808",
+            "name_en": "Kumho-chigu",
+            "wikidata_id": "Q196225"
+        },
+        "dXJuOm1ieGJuZDpoeFI1OnY0": {
+            "name": "금야군",
+            "code": "0809",
+            "name_en": "Kumya-gun",
+            "wikidata_id": "Q706067"
+        },
+        "dXJuOm1ieGJuZDppQlI1OnY0": {
+            "name": "부전군",
+            "code": "0810",
+            "name_en": "Pujon-gun",
+            "wikidata_id": "Q715520"
+        },
+        "dXJuOm1ieGJuZDppUlI1OnY0": {
+            "name": "북청군",
+            "code": "0811",
+            "name_en": "Pukch'ong-gun",
+            "wikidata_id": "Q715922"
+        },
+        "dXJuOm1ieGJuZDppaFI1OnY0": {
+            "name": "락원군",
+            "code": "0812",
+            "name_en": "Ragwon-gun",
+            "wikidata_id": "Q715750"
+        },
+        "dXJuOm1ieGJuZDppeFI1OnY0": {
+            "name": "리원군",
+            "code": "0813",
+            "name_en": "Riwon-gun",
+            "wikidata_id": "Q715764"
+        },
+        "dXJuOm1ieGJuZDpqQlI1OnY0": {
+            "name": "신흥군",
+            "code": "0814",
+            "name_en": "Sinhung-gun",
+            "wikidata_id": "Q710321"
+        },
+        "dXJuOm1ieGJuZDpqUlI1OnY0": {
+            "name": "신포시",
+            "code": "0815",
+            "name_en": "Sinp'o-si",
+            "wikidata_id": "Q511352"
+        },
+        "dXJuOm1ieGJuZDpqaFI1OnY0": {
+            "name": "수동구",
+            "code": "0816",
+            "name_en": "Sudong-ku",
+            "wikidata_id": "Q705597"
+        },
+        "dXJuOm1ieGJuZDpqeFI1OnY0": {
+            "name": "단천시",
+            "code": "0817",
+            "name_en": "Tanch'on-si",
+            "wikidata_id": "Q513537"
+        },
+        "dXJuOm1ieGJuZDprQlI1OnY0": {
+            "name": "덕성군",
+            "code": "0818",
+            "name_en": "Toksong-gun",
+            "wikidata_id": "Q715916"
+        },
+        "dXJuOm1ieGJuZDprUlI1OnY0": {
+            "name": "요덕군",
+            "code": "0819",
+            "name_en": "Yodok-gun",
+            "wikidata_id": "Q714850"
+        },
+        "dXJuOm1ieGJuZDpraFI1OnY0": {
+            "name": "영광군",
+            "code": "0820",
+            "name_en": "Yonggwang-gun",
+            "wikidata_id": "Q715953"
+        },
+        "dXJuOm1ieGJuZDpreFI1OnY0": {
+            "name": "청진시",
+            "code": "0901",
+            "name_en": "Ch'ongjin-si",
+            "wikidata_id": "Q109336"
+        },
+        "dXJuOm1ieGJuZDpsQlI1OnY0": {
+            "name": "회령시",
+            "code": "0902",
+            "name_en": "Hoeryong-si",
+            "wikidata_id": "Q48888"
+        },
+        "dXJuOm1ieGJuZDpsUlI1OnY0": {
+            "name": "화대군",
+            "code": "0903",
+            "name_en": "Hwadae-gun",
+            "wikidata_id": "Q706795"
+        },
+        "dXJuOm1ieGJuZDpsaFI1OnY0": {
+            "name": "화성군",
+            "code": "0904",
+            "name_en": "Hwasong-gun",
+            "wikidata_id": "Q705076"
+        },
+        "dXJuOm1ieGJuZDpseFI1OnY0": {
+            "name": "길주군",
+            "code": "0905",
+            "name_en": "Kilchu-gun",
+            "wikidata_id": "Q196062"
+        },
+        "dXJuOm1ieGJuZDptQlI1OnY0": {
+            "name": "김책시",
+            "code": "0906",
+            "name_en": "Kimch'aek-si",
+            "wikidata_id": "Q714873"
+        },
+        "dXJuOm1ieGJuZDptUlI1OnY0": {
+            "name": "경성군",
+            "code": "0907",
+            "name_en": "Kyongsong-gun",
+            "wikidata_id": "Q704834"
+        },
+        "dXJuOm1ieGJuZDptaFI1OnY0": {
+            "name": "무산군",
+            "code": "0908",
+            "name_en": "Musan-gun",
+            "wikidata_id": "Q718513"
+        },
+        "dXJuOm1ieGJuZDpteFI1OnY0": {
+            "name": "명천군",
+            "code": "0909",
+            "name_en": "Myongch'on-gun",
+            "wikidata_id": "Q705454"
+        },
+        "dXJuOm1ieGJuZDpuQlI1OnY0": {
+            "name": "온성군",
+            "code": "0910",
+            "name_en": "Onsong-gun",
+            "wikidata_id": "Q705188"
+        },
+        "dXJuOm1ieGJuZDpuUlI1OnY0": {
+            "name": "어랑군",
+            "code": "0911",
+            "name_en": "Orang-gun",
+            "wikidata_id": "Q196071"
+        },
+        "dXJuOm1ieGJuZDpuaFI1OnY0": {
+            "name": "부령군",
+            "code": "0912",
+            "name_en": "Puryong-gun",
+            "wikidata_id": "Q705193"
+        },
+        "dXJuOm1ieGJuZDpueFI1OnY0": {
+            "name": "부윤군",
+            "code": "0913",
+            "name_en": "Puyun-gun",
+            "wikidata_id": "Q3916311"
+        },
+        "dXJuOm1ieGJuZDpvQlI1OnY0": {
+            "name": "새별군",
+            "code": "0914",
+            "name_en": "Saebyol-gun",
+            "wikidata_id": "Q704826"
+        },
+        "dXJuOm1ieGJuZDpvUlI1OnY0": {
+            "name": "은덕군",
+            "code": "0915",
+            "name_en": "Undok-gun",
+            "wikidata_id": "Q251951"
+        },
+        "dXJuOm1ieGJuZDpvaFI1OnY0": {
+            "name": "연사군",
+            "code": "0916",
+            "name_en": "Yonsa-gun",
+            "wikidata_id": "Q705234"
+        },
+        "dXJuOm1ieGJuZDpveFI1OnY0": {
+            "name": "혜산시",
+            "code": "1001",
+            "name_en": "Hyesan-si",
+            "wikidata_id": "Q489829"
+        },
+        "dXJuOm1ieGJuZDpwQlI1OnY0": {
+            "name": "갑산군",
+            "code": "1002",
+            "name_en": "Kapsan-gun",
+            "wikidata_id": "Q705082"
+        },
+        "dXJuOm1ieGJuZDpwUlI1OnY0": {
+            "name": "김형권군",
+            "code": "1003",
+            "name_en": "Kimhyonggwon-gun",
+            "wikidata_id": "Q196242"
+        },
+        "dXJuOm1ieGJuZDpwaFI1OnY0": {
+            "name": "김형직군",
+            "code": "1004",
+            "name_en": "Kimhyongjik-gun",
+            "wikidata_id": "Q199350"
+        },
+        "dXJuOm1ieGJuZDpweFI1OnY0": {
+            "name": "김정숙군",
+            "code": "1005",
+            "name_en": "Kimjongsuk-gun",
+            "wikidata_id": "Q213179"
+        },
+        "dXJuOm1ieGJuZDpxQlI1OnY0": {
+            "name": "백암군",
+            "code": "1006",
+            "name_en": "Paegam-gun",
+            "wikidata_id": "Q705065"
+        },
+        "dXJuOm1ieGJuZDpxUlI1OnY0": {
+            "name": "보천군",
+            "code": "1007",
+            "name_en": "Poch'on-gun",
+            "wikidata_id": "Q196230"
+        },
+        "dXJuOm1ieGJuZDpxaFI1OnY0": {
+            "name": "풍서군",
+            "code": "1008",
+            "name_en": "P'ungso-gun",
+            "wikidata_id": "Q196247"
+        },
+        "dXJuOm1ieGJuZDpxeFI1OnY0": {
+            "name": "삼지연군",
+            "code": "1009",
+            "name_en": "Samjiyon-gun",
+            "wikidata_id": "Q700618"
+        },
+        "dXJuOm1ieGJuZDpyQlI1OnY0": {
+            "name": "삼수군",
+            "code": "1010",
+            "name_en": "Samsu-gun",
+            "wikidata_id": "Q705480"
+        },
+        "dXJuOm1ieGJuZDpyUlI1OnY0": {
+            "name": "대홍단군",
+            "code": "1011",
+            "name_en": "Taehongdan-gun",
+            "wikidata_id": "Q703185"
+        },
+        "dXJuOm1ieGJuZDpyaFI1OnY0": {
+            "name": "운흥군",
+            "code": "1012",
+            "name_en": "Unhung-gun",
+            "wikidata_id": "Q704839"
+        },
+        "dXJuOm1ieGJuZDpXaFI1OnY0": {
+            "name": "장풍군",
+            "code": "1101",
+            "name_en": "Changp'ung-gun",
+            "wikidata_id": "Q714495"
+        },
+        "dXJuOm1ieGJuZDpYQlI1OnY0": {
+            "name": "개풍군",
+            "code": "1102",
+            "name_en": "Kaep'ung-gun",
+            "wikidata_id": "Q705476"
+        },
+        "dXJuOm1ieGJuZDpYUlI1OnY0": {
+            "name": "개성시",
+            "code": "1103",
+            "name_en": "Kaesong-si",
+            "wikidata_id": "Q109079"
+        },
+        "dXJuOm1ieGJuZDpZQlI1OnY0": {
+            "name": "판문점",
+            "code": "1104",
+            "name_en": "P'anmun-gun"
+        },
+        "dXJuOm1ieGJuZDpyeFI1OnY0": {
+            "name": "천리마군",
+            "code": "1201",
+            "name_en": "Chollima-gun",
+            "wikidata_id": "Q224908"
+        },
+        "dXJuOm1ieGJuZDpzQlI1OnY0": {
+            "name": "강서군",
+            "code": "1203",
+            "name_en": "Kangso-gun",
+            "wikidata_id": "Q702276"
+        },
+        "dXJuOm1ieGJuZDpzaFI1OnY0": {
+            "name": "온천군",
+            "code": "1204",
+            "name_en": "Onch'on-gun",
+            "wikidata_id": "Q704814"
+        },
+        "dXJuOm1ieGJuZDpzeFI1OnY0": {
+            "name": "룡강군",
+            "code": "1205",
+            "name_en": "Ryonggang-gun",
+            "wikidata_id": "Q712209"
+        },
+        "dXJuOm1ieGJuZDp0QlI1OnY0": {
+            "name": "대안군",
+            "code": "1206",
+            "name_en": "Taean-gun",
+            "wikidata_id": "Q714477"
+        },
+        "dXJuOm1ieGJuZDpzUlI1OnY0": {
+            "name": "남포직할시",
+            "code": "1207",
+            "name_en": "Nampo-gun",
+            "wikidata_id": "Q109386"
+        },
+        "dXJuOm1ieGJuZDp0UlI1OnY0": {
+            "name": "라진구역",
+            "code": "1301",
+            "name_en": "Rajin-guyok",
+            "wikidata_id": "Q2128756"
+        },
+        "dXJuOm1ieGJuZDp0aFI1OnY0": {
+            "name": "선봉군",
+            "code": "1302",
+            "name_en": "Sonbong-gun",
+            "wikidata_id": "Q1149302"
+        }
+    }
+}

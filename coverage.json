@@ -1,0 +1,6222 @@
+{
+    "AL": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[19.2635,39.6448,21.0573,42.6611]",
+        "mapbox_id": "dXJuOm1ieGJuZDpBaEFHOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "2"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "7"
+        }
+    },
+    "AT": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[9.5307,46.3723,17.1608,49.0205]",
+        "mapbox_id": "dXJuOm1ieGJuZDpEaEFNOnY0",
+        "adm1": {
+            "description": "state",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district, city",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality, district",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        },
+        "adm4": {
+            "description": "cadastral community",
+            "z_min": "7"
+        }
+    },
+    "AU": {
+        "sta1": {
+            "description": "state and territory",
+            "z_min": "0"
+        },
+        "bbox": "[112.9211,-54.778,159.1092,-9.1422]",
+        "mapbox_id": "dXJuOm1ieGJuZDpEUkFOOnY0",
+        "adm1": {
+            "description": "state, territory, external territory",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "local government area, unincorporated area, territory",
+            "z_min": "1"
+        },
+        "sta3": {
+            "description": "statistical areas level 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "statistical areas level 4",
+            "z_min": "0"
+        },
+        "sta4": {
+            "description": "statistical areas level 2",
+            "z_min": "2"
+        },
+        "sta5": {
+            "description": "statistical areas level 1",
+            "z_min": "5"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "AW": {
+        "sta1": {
+            "description": "region",
+            "z_min": "5"
+        },
+        "bbox": "[-70.0637,12.4118,-69.8657,12.6234]",
+        "mapbox_id": "dXJuOm1ieGJuZDpEQkFPOnY0",
+        "adm1": {
+            "description": "constituent country",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "AX": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[19.2633,59.7333,21.3303,60.6657]",
+        "mapbox_id": "dXJuOm1ieGJuZDpBKzhRRHc6djQ",
+        "adm1": {
+            "description": "region",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "sub-regional unit",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "AZ": {
+        "sta1": {
+            "description": "economic region",
+            "z_min": "1"
+        },
+        "bbox": "[44.7647,38.3922,50.6248,41.9123]",
+        "mapbox_id": "dXJuOm1ieGJuZDpEeEFROnY0",
+        "adm1": {
+            "description": "district, city",
+            "z_min": "2"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "BA": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[15.7287,42.5555,19.6237,45.2765]",
+        "mapbox_id": "dXJuOm1ieGJuZDpIQkFSOnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "canton, region, district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "BE": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[2.5454,49.497,6.4081,51.5051]",
+        "mapbox_id": "dXJuOm1ieGJuZDpGUkFVOnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "province, region",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "district, region",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "5"
+        },
+        "adm4": {
+            "description": "municipality",
+            "z_min": "5"
+        }
+    },
+    "BG": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[22.3572,41.2353,28.6119,44.2155]",
+        "mapbox_id": "dXJuOm1ieGJuZDpJeEFXOnY0",
+        "adm1": {
+            "description": "province, city",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "BR": {
+        "sta1": {
+            "description": "State",
+            "z_min": "0"
+        },
+        "bbox": "[-73.9832,-33.7512,-28.8478,5.2695]",
+        "mapbox_id": "dXJuOm1ieGJuZDpIeEFmOnY0",
+        "adm1": {
+            "description": "state, federal district",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "municipality, federal district",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "Immediate region",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "Intermediate region",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-2-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "CA": {
+        "sta1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[-141.0019,41.6814,-52.6194,83.1355]",
+        "mapbox_id": "dXJuOm1ieGJuZDpLUkFtOnY0",
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "Senate",
+            "z_min": "0"
+        },
+        "loc4": {
+            "description": "neighborhoods",
+            "z_min": "6"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "municipality, reserve, town",
+            "z_min": "3"
+        },
+        "sta2": {
+            "description": "census division, regional county municipality, county",
+            "z_min": "1"
+        },
+        "leg2": {
+            "description": "federal electoral districts",
+            "z_min": "1"
+        },
+        "leg3": {
+            "description": "electoral divisions",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "9"
+        }
+    },
+    "CC": {
+        "sta1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[96.8169,-12.2087,96.9295,-11.8146]",
+        "mapbox_id": "dXJuOm1ieGJuZDpOQkFuOnY0",
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "sta3": {
+            "description": "statistical areas level 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "statistical areas level 4",
+            "z_min": "0"
+        },
+        "sta4": {
+            "description": "statistical areas level 2",
+            "z_min": "2"
+        },
+        "sta5": {
+            "description": "statistical areas level 1",
+            "z_min": "5"
+        }
+    },
+    "CH": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[5.9559,45.818,10.4922,47.8085]",
+        "mapbox_id": "dXJuOm1ieGJuZDoyeEFyOnY0",
+        "adm1": {
+            "description": "canton",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district, canton",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "CV": {
+        "sta1": {
+            "description": "island",
+            "z_min": "0"
+        },
+        "bbox": "[-25.3616,14.8021,-22.6572,17.2053]",
+        "mapbox_id": "dXJuOm1ieGJuZDpLaEEwOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "parish",
+            "z_min": "1"
+        }
+    },
+    "CX": {
+        "sta1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[105.5333,-10.5705,105.7126,-10.4124]",
+        "mapbox_id": "dXJuOm1ieGJuZDpNeEEyOnY0",
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "sta3": {
+            "description": "statistical areas level 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "statistical areas level 4",
+            "z_min": "0"
+        },
+        "sta4": {
+            "description": "statistical areas level 2",
+            "z_min": "2"
+        },
+        "sta5": {
+            "description": "statistical areas level 1",
+            "z_min": "5"
+        }
+    },
+    "CY": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[32.2692,34.6323,34.6066,35.7109]",
+        "mapbox_id": "dXJuOm1ieGJuZDovaEEzOnY0",
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "community",
+            "z_min": "5"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "CZ": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[12.0906,48.5518,18.8593,51.0557]",
+        "mapbox_id": "dXJuOm1ieGJuZDpQUkE0OnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "loc1": {
+            "description": "orp",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "DE": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[5.8663,47.2701,15.0418,55.0568]",
+        "mapbox_id": "dXJuOm1ieGJuZDpWUkE1OnY0",
+        "adm1": {
+            "description": "federal state",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "1"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "postal directing area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "rural district, urban district, district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality, unincorporated area",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "DK": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[8.0725,54.5591,15.1974,57.7522]",
+        "mapbox_id": "dXJuOm1ieGJuZDpQeEE3OnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality, island",
+            "z_min": "1"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "sta4": {
+            "description": "LAU 1",
+            "z_min": "2"
+        },
+        "sta5": {
+            "description": "LAU 2",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "DO": {
+        "sta1": {
+            "description": "macro region",
+            "z_min": "2"
+        },
+        "bbox": "[-72.0075,17.4706,-68.323,19.932]",
+        "mapbox_id": "dXJuOm1ieGJuZDpRaEE5OnY0",
+        "adm1": {
+            "description": "province, federal district",
+            "z_min": "2"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality, municipio",
+            "z_min": "3"
+        },
+        "sta2": {
+            "description": "region",
+            "z_min": "3"
+        }
+    },
+    "EE": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[21.7643,57.5093,28.21,59.822]",
+        "mapbox_id": "dXJuOm1ieGJuZDpTQkJBOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "ES": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[-18.1612,27.6377,4.3278,43.7924]",
+        "mapbox_id": "dXJuOm1ieGJuZDoxQkJFOnY0",
+        "adm1": {
+            "description": "autonomous community, autonomous city",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "FI": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[20.5486,59.6761,31.5867,70.0923]",
+        "mapbox_id": "dXJuOm1ieGJuZDpUUkJHOnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "sub-regional unit",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "FR": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[-5.143,41.3333,9.5603,51.0891]",
+        "mapbox_id": "dXJuOm1ieGJuZDpUaEJMOnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "arrondissement",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "leg4": {
+            "description": "canton",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        },
+        "adm4": {
+            "description": "commune",
+            "z_min": "6"
+        }
+    },
+    "GB": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[-8.6501,49.8668,1.763,60.8608]",
+        "mapbox_id": "dXJuOm1ieGJuZDo3aEJOOnY0",
+        "adm1": {
+            "description": "country",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "postcode district",
+            "z_min": "4"
+        },
+        "pos3": {
+            "description": "postcode sector",
+            "z_min": "5"
+        },
+        "adm2": {
+            "description": "unitary authority, council area, county",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "non-metropolitan district, unitary authority, metropolitan district",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "postcode unit",
+            "z_min": "8"
+        }
+    },
+    "GR": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[19.3728,34.8006,29.6457,41.7503]",
+        "mapbox_id": "dXJuOm1ieGJuZDpXUkJaOnY0",
+        "adm1": {
+            "description": "decentralized administration, autonomous state",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "periphery, autonomous state",
+            "z_min": "0"
+        },
+        "adm3": {
+            "description": "peripheral unit, autonomous state",
+            "z_min": "1"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "sta4": {
+            "description": "LAU1 1",
+            "z_min": "3"
+        },
+        "sta5": {
+            "description": "LAU 2",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        },
+        "adm4": {
+            "description": "municipality, autonomous state",
+            "z_min": "2"
+        }
+    },
+    "HM": {
+        "sta1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[72.5826,-53.1949,73.8764,-52.9021]",
+        "mapbox_id": "dXJuOm1ieGJuZDpaUkJnOnY0",
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "sta3": {
+            "description": "statistical areas level 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "statistical areas level 4",
+            "z_min": "0"
+        },
+        "sta4": {
+            "description": "statistical areas level 2",
+            "z_min": "2"
+        },
+        "sta5": {
+            "description": "statistical areas level 1",
+            "z_min": "5"
+        }
+    },
+    "HU": {
+        "sta1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[16.1139,45.7371,22.8968,48.5852]",
+        "mapbox_id": "dXJuOm1ieGJuZDpaeEJrOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "village, city, large village",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "IE": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[-10.663,51.4199,-5.9942,55.4351]",
+        "mapbox_id": "dXJuOm1ieGJuZDpiUkJtOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "2"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "municipal district, borough district, city council",
+            "z_min": "4"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "leg4": {
+            "description": "Local Electoral Areas",
+            "z_min": "2"
+        },
+        "sta4": {
+            "description": "LAU 1",
+            "z_min": "2"
+        },
+        "sta5": {
+            "description": "LAU 2",
+            "z_min": "3"
+        }
+    },
+    "IM": {
+        "sta1": {
+            "description": "sheading",
+            "z_min": "3"
+        },
+        "bbox": "[-4.8307,54.0431,-4.3079,54.4181]",
+        "mapbox_id": "dXJuOm1ieGJuZDpiaEJvOnY0",
+        "adm1": {
+            "description": "crown dependency",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "postcode district",
+            "z_min": "4"
+        },
+        "pos3": {
+            "description": "postcode sector",
+            "z_min": "5"
+        },
+        "adm2": {
+            "description": "parish, town, district",
+            "z_min": "1"
+        }
+    },
+    "IS": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[-24.5327,63.2958,-13.4946,66.5664]",
+        "mapbox_id": "dXJuOm1ieGJuZDphQkJ0OnY0",
+        "adm1": {
+            "description": "municipality",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "sta4": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "IT": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[6.6268,35.4929,18.5204,47.0921]",
+        "mapbox_id": "dXJuOm1ieGJuZDpjQkJ1OnY0",
+        "adm1": {
+            "description": "region, autonomous region",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "province, metropolitan city, free consortium",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "JP": {
+        "sta1": {
+            "description": "metropolitan area, major metropolitan area, disputed area",
+            "z_min": "2"
+        },
+        "bbox": "[122.9338,24.0457,145.8175,45.523]",
+        "mapbox_id": "dXJuOm1ieGJuZDpjeEJ5OnY0",
+        "adm1": {
+            "description": "prefecture",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        },
+        "pos3": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        },
+        "adm2": {
+            "description": "city, town, village",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "ward",
+            "z_min": "5"
+        },
+        "sta3": {
+            "description": "statistical area, disputed area",
+            "z_min": "7"
+        },
+        "sta2": {
+            "description": "city, town, village",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "7-digit postcode area, disputed area",
+            "z_min": "7"
+        }
+    },
+    "KE": {
+        "sta1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[33.9216,-4.6913,41.9109,5.0334]",
+        "mapbox_id": "dXJuOm1ieGJuZDpkeEJ6OnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "1"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "sub-county",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "ward",
+            "z_min": "4"
+        },
+        "sta2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "LI": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[9.4717,47.0484,9.6357,47.2706]",
+        "mapbox_id": "dXJuOm1ieGJuZDpnaENCOnY0",
+        "adm1": {
+            "description": "municipality",
+            "z_min": "5"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "LT": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[20.954,53.8968,26.8355,56.4504]",
+        "mapbox_id": "dXJuOm1ieGJuZDpneENGOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "eldership, city",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "LU": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[5.7357,49.4479,6.531,50.1828]",
+        "mapbox_id": "dXJuOm1ieGJuZDpoQkNHOnY0",
+        "adm1": {
+            "description": "canton",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "commune",
+            "z_min": "4"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "LV": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[20.9706,55.6747,28.2415,58.0856]",
+        "mapbox_id": "dXJuOm1ieGJuZDpmUkNIOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "county district",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "ME": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[18.4335,41.8468,20.3529,43.5582]",
+        "mapbox_id": "dXJuOm1ieGJuZDpsaENNOnY0",
+        "adm1": {
+            "description": "municipality",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "MK": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[20.4533,40.8539,23.034,42.3736]",
+        "mapbox_id": "dXJuOm1ieGJuZDpoUkNROnY0",
+        "adm1": {
+            "description": "municipality",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "MT": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[14.1834,35.8062,14.5765,36.0824]",
+        "mapbox_id": "dXJuOm1ieGJuZDppeENaOnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "sta4": {
+            "description": "LAU 1",
+            "z_min": "2"
+        }
+    },
+    "MV": {
+        "sta1": {
+            "description": "former province",
+            "z_min": "0"
+        },
+        "bbox": "[72.6392,-0.7037,73.7596,7.1064]",
+        "mapbox_id": "dXJuOm1ieGJuZDppUkNiOnY0",
+        "adm1": {
+            "description": "atoll",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "NF": {
+        "sta1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[167.9138,-29.1366,167.998,-28.9942]",
+        "mapbox_id": "dXJuOm1ieGJuZDpwUkNqOnY0",
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "sta3": {
+            "description": "statistical areas level 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "statistical areas level 4",
+            "z_min": "0"
+        },
+        "sta4": {
+            "description": "statistical areas level 2",
+            "z_min": "2"
+        },
+        "sta5": {
+            "description": "statistical areas level 1",
+            "z_min": "5"
+        }
+    },
+    "NL": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[3.3584,50.7504,7.2275,53.555]",
+        "mapbox_id": "dXJuOm1ieGJuZDpuaENtOnY0",
+        "adm1": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        },
+        "pos3": {
+            "description": "5-digit postcode area",
+            "z_min": "7"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "9"
+        }
+    },
+    "NO": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[4.4999,57.9594,31.1683,71.1855]",
+        "mapbox_id": "dXJuOm1ieGJuZDpxQkNuOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "sta4": {
+            "description": "LAU 1",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "NP": {
+        "sta1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[80.0585,26.3474,88.2018,30.4474]",
+        "mapbox_id": "dXJuOm1ieGJuZDpuUkNvOnY0",
+        "loc2": {
+            "description": "village, town, city",
+            "z_min": "2"
+        },
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "1-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "zone",
+            "z_min": "1"
+        }
+    },
+    "NZ": {
+        "sta1": {
+            "description": "urban rural",
+            "z_min": "0"
+        },
+        "bbox": "[165.87,-52.6088,183.8456,-34.1292]",
+        "mapbox_id": "dXJuOm1ieGJuZDpvQkNyOnY0",
+        "adm1": {
+            "description": "region, special island authority",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "regional council",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "territorial authority",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "ward",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "statistical area",
+            "z_min": "3"
+        },
+        "sta2": {
+            "description": "statistical area",
+            "z_min": "1"
+        },
+        "sta4": {
+            "description": "meshblock",
+            "z_min": "4"
+        },
+        "leg2": {
+            "description": "constituency",
+            "z_min": "1"
+        },
+        "leg3": {
+            "description": "community board",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "PL": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[14.1229,49.002,24.1459,54.8358]",
+        "mapbox_id": "dXJuOm1ieGJuZDpzeEN6OnY0",
+        "adm1": {
+            "description": "voivodeship",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "powiat, city powiat, capital city",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "rural municipality, urban-rural municipality, urban municipality",
+            "z_min": "4"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "7"
+        },
+        "adm4": {
+            "description": "rural municipality, city, rural area",
+            "z_min": "5"
+        }
+    },
+    "PT": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[-31.269,30.0288,-6.1892,42.1543]",
+        "mapbox_id": "dXJuOm1ieGJuZDp0QkM0OnY0",
+        "adm1": {
+            "description": ", autonomous region",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "local council",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "parish",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "7-digit postcode area",
+            "z_min": "9"
+        }
+    },
+    "QA": {
+        "sta1": {
+            "description": "zone",
+            "z_min": "1"
+        },
+        "bbox": "[50.7501,24.4711,51.6622,26.1833]",
+        "mapbox_id": "dXJuOm1ieGJuZDp0aEM3OnY0",
+        "adm1": {
+            "description": "municipality",
+            "z_min": "2"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "RO": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[20.2618,43.6194,29.7153,48.2656]",
+        "mapbox_id": "dXJuOm1ieGJuZDp1QkM5OnY0",
+        "adm1": {
+            "description": "county, city",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "commune, town, city",
+            "z_min": "4"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-6-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "RS": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[18.839,42.2315,23.0064,46.1901]",
+        "mapbox_id": "dXJuOm1ieGJuZDp4eEMrOnY0",
+        "adm1": {
+            "description": "district, city",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality, city",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "city municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "3"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "RU": {
+        "sta1": {
+            "description": "federal district",
+            "z_min": "0"
+        },
+        "bbox": "[19.6385,41.1854,190.3416,81.8574]",
+        "mapbox_id": "dXJuOm1ieGJuZDp1UkMvOnY0",
+        "adm1": {
+            "description": "oblast, republic, krai",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district, urban district, city",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "city district",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "6-2-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "SE": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[10.9577,55.3367,24.1761,69.06]",
+        "mapbox_id": "dXJuOm1ieGJuZDoyaERGOnY0",
+        "adm1": {
+            "description": "county",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "SG": {
+        "sta1": {
+            "description": "region",
+            "z_min": "4"
+        },
+        "bbox": "[103.6057,1.1587,104.0885,1.4709]",
+        "mapbox_id": "dXJuOm1ieGJuZDp5aERHOnY0",
+        "adm1": {
+            "description": "community development council",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "constituency",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "subzone",
+            "z_min": "6"
+        },
+        "sta2": {
+            "description": "planning area",
+            "z_min": "5"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "8"
+        }
+    },
+    "SI": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[13.3755,45.4214,16.5974,46.8767]",
+        "mapbox_id": "dXJuOm1ieGJuZDp6UkRJOnY0",
+        "adm1": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "rural settlement, urban settlement",
+            "z_min": "5"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "1"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "7"
+        }
+    },
+    "SJ": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[-9.0864,70.8278,37.0668,80.8212]",
+        "mapbox_id": "dXJuOm1ieGJuZDoyQkRKOnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "settlement, island, area",
+            "z_min": "2"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "SK": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[16.8332,47.7312,22.5657,49.6138]",
+        "mapbox_id": "dXJuOm1ieGJuZDp6QkRLOnY0",
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "municipality, borough, military district",
+            "z_min": "6"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "ST": {
+        "sta1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[6.46,-0.0138,7.4625,1.701]",
+        "mapbox_id": "dXJuOm1ieGJuZDp4QkRSOnY0",
+        "adm1": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "sta2": {
+            "description": "region",
+            "z_min": "4"
+        }
+    },
+    "TN": {
+        "sta1": {
+            "description": "regions",
+            "z_min": "2"
+        },
+        "bbox": "[7.5227,30.2303,11.6112,37.5597]",
+        "mapbox_id": "dXJuOm1ieGJuZDo1aERmOnY0",
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "delegation",
+            "z_min": "2"
+        }
+    },
+    "TR": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[25.6652,35.8122,44.8181,42.1049]",
+        "mapbox_id": "dXJuOm1ieGJuZDo1eERoOnY0",
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "district, central district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "neighborhood, district",
+            "z_min": "5"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "US": {
+        "sta1": {
+            "description": "core statistical area",
+            "z_min": "1"
+        },
+        "bbox": "[-187.5552,18.9107,-66.9496,71.3885]",
+        "mapbox_id": "dXJuOm1ieGJuZDo4aERwOnY0",
+        "loc3": {
+            "description": "cdp;hamlet",
+            "z_min": "5"
+        },
+        "loc2": {
+            "description": "postal place",
+            "z_min": "4"
+        },
+        "adm1": {
+            "description": "state, federal district",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "senate",
+            "z_min": "0"
+        },
+        "loc4": {
+            "description": "neighborhoods",
+            "z_min": "6"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "county, parish, city",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "township, town, charter township",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "county subdivision",
+            "z_min": "4"
+        },
+        "sta2": {
+            "description": "micropolitan statistical area, metropolitan statistical area",
+            "z_min": "2"
+        },
+        "loc1": {
+            "description": "state, federal district",
+            "z_min": "0"
+        },
+        "leg4": {
+            "description": "state house district",
+            "z_min": "4"
+        },
+        "sta4": {
+            "description": "tract",
+            "z_min": "5"
+        },
+        "sta5": {
+            "description": "block group",
+            "z_min": "6"
+        },
+        "leg2": {
+            "description": "congressional district",
+            "z_min": "2"
+        },
+        "leg3": {
+            "description": "state senate district",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        },
+        "adm4": {
+            "description": "city, town, village",
+            "z_min": "5"
+        }
+    },
+    "VG": {
+        "sta1": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "bbox": "[-64.8501,18.3064,-64.2706,18.7497]",
+        "mapbox_id": "dXJuOm1ieGJuZDpJUkR2OnY0",
+        "adm1": {
+            "description": "territory",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "WS": {
+        "sta1": {
+            "description": "itumalo",
+            "z_min": "3"
+        },
+        "bbox": "[-172.8041,-14.0772,-171.3977,-13.4398]",
+        "mapbox_id": "dXJuOm1ieGJuZDp3aEQwOnY0",
+        "adm1": {
+            "description": "itumalo",
+            "z_min": "3"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "sta2": {
+            "description": "faipule",
+            "z_min": "3"
+        }
+    },
+    "HR": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[13.4898,42.3922,19.4474,46.555]",
+        "mapbox_id": "dXJuOm1ieGJuZDpPaEJpOnY0",
+        "adm1": {
+            "description": "county, city",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "4"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "XK": {
+        "sta1": {
+            "description": "NUTS 1",
+            "z_min": "0"
+        },
+        "bbox": "[20.0143,41.8576,21.7899,43.2677]",
+        "mapbox_id": "dXJuOm1ieGJuZDplUkQxOnY0",
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "1-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "1"
+        },
+        "sta3": {
+            "description": "NUTS 3",
+            "z_min": "2"
+        },
+        "sta2": {
+            "description": "NUTS 2",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "AE": {
+        "loc2": {
+            "description": "settlement, city",
+            "z_min": "1"
+        },
+        "bbox": "[51.498,22.6315,56.3816,26.0694]",
+        "mapbox_id": "dXJuOm1ieGJuZDo3UkFDOnY0",
+        "adm1": {
+            "description": "emirate",
+            "z_min": "1"
+        },
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "loc4": {
+            "description": "neighborhood",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "municipality, sector, area",
+            "z_min": "2"
+        }
+    },
+    "AD": {
+        "adm1": {
+            "description": "parish",
+            "z_min": "5"
+        },
+        "bbox": "[1.4136,42.4287,1.7867,42.6559]",
+        "mapbox_id": "dXJuOm1ieGJuZDpCUkFCOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "AF": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[60.5176,29.3772,74.8899,38.4907]",
+        "mapbox_id": "dXJuOm1ieGJuZDpBUkFEOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "AG": {
+        "adm1": {
+            "description": "parish",
+            "z_min": "5"
+        },
+        "bbox": "[-62.3482,16.9323,-61.657,17.7294]",
+        "mapbox_id": "dXJuOm1ieGJuZDpDUkFFOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "AI": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "1"
+        },
+        "bbox": "[-63.4296,18.1499,-62.9244,18.5953]",
+        "mapbox_id": "dXJuOm1ieGJuZDpCeEFGOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "3"
+        }
+    },
+    "AM": {
+        "adm1": {
+            "description": "province",
+            "z_min": "2"
+        },
+        "bbox": "[43.4474,38.8402,46.6342,41.3011]",
+        "mapbox_id": "dXJuOm1ieGJuZDpDeEFIOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "AO": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[11.6693,-18.0395,24.0837,-4.3607]",
+        "mapbox_id": "dXJuOm1ieGJuZDpCaEFJOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "1"
+        }
+    },
+    "AR": {
+        "adm1": {
+            "description": "province, autonomous city",
+            "z_min": "0"
+        },
+        "bbox": "[-73.5653,-55.0572,-53.6374,-21.7815]",
+        "mapbox_id": "dXJuOm1ieGJuZDpDaEFLOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "department, partido, comuna",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "AS": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[-171.09,-14.5698,-168.1303,-11.0479]",
+        "mapbox_id": "dXJuOm1ieGJuZDpCQkFMOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "senate",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "county",
+            "z_min": "3"
+        },
+        "sta4": {
+            "description": "tract",
+            "z_min": "5"
+        },
+        "sta5": {
+            "description": "block group",
+            "z_min": "6"
+        },
+        "leg2": {
+            "description": "congressional district",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "BB": {
+        "adm1": {
+            "description": "parish",
+            "z_min": "5"
+        },
+        "bbox": "[-59.6526,13.0447,-59.4203,13.3348]",
+        "mapbox_id": "dXJuOm1ieGJuZDpFeEFTOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "BD": {
+        "adm1": {
+            "description": "division",
+            "z_min": "1"
+        },
+        "bbox": "[88.0086,20.5751,92.6801,26.6339]",
+        "mapbox_id": "dXJuOm1ieGJuZDpFaEFUOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "subdistrict, metropolitan subdistrict",
+            "z_min": "3"
+        },
+        "adm4": {
+            "description": "union",
+            "z_min": "4"
+        }
+    },
+    "BF": {
+        "adm1": {
+            "description": "region",
+            "z_min": "1"
+        },
+        "bbox": "[-5.5119,9.4088,2.4048,15.0855]",
+        "mapbox_id": "dXJuOm1ieGJuZDpKQkFWOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "2"
+        }
+    },
+    "BH": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[50.3152,25.5717,50.8245,26.4229]",
+        "mapbox_id": "dXJuOm1ieGJuZDpFUkFYOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "area",
+            "z_min": "6"
+        },
+        "adm3": {
+            "description": "block",
+            "z_min": "7"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "BI": {
+        "adm1": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "bbox": "[29.0007,-4.47,30.8502,-2.31]",
+        "mapbox_id": "dXJuOm1ieGJuZDpKUkFZOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "4"
+        }
+    },
+    "BJ": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[0.7798,6.2347,3.8534,12.4092]",
+        "mapbox_id": "dXJuOm1ieGJuZDpGeEFaOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "1"
+        }
+    },
+    "BL": {
+        "adm1": {
+            "description": "municipality",
+            "z_min": "1"
+        },
+        "bbox": "[-62.9104,17.8782,-62.7891,17.9609]",
+        "mapbox_id": "dXJuOm1ieGJuZDp1eEFhOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "BM": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[-64.8875,32.2472,-64.647,32.391]",
+        "mapbox_id": "dXJuOm1ieGJuZDpHQkFiOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "parish",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "BN": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[114.0759,4.0026,115.3647,5.0459]",
+        "mapbox_id": "dXJuOm1ieGJuZDpJaEFjOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "subdivision",
+            "z_min": "3"
+        }
+    },
+    "BO": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[-69.6444,-22.9004,-57.4533,-9.6648]",
+        "mapbox_id": "dXJuOm1ieGJuZDpHaEFkOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "2"
+        }
+    },
+    "BQ": {
+        "adm1": {
+            "description": "island",
+            "z_min": "1"
+        },
+        "bbox": "[-68.4207,12.0247,-62.9459,17.6501]",
+        "mapbox_id": "dXJuOm1ieGJuZDpHeEFlOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "BS": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[-79.3055,20.912,-72.7118,27.2629]",
+        "mapbox_id": "dXJuOm1ieGJuZDpFQkFnOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "BT": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[88.7455,26.702,92.1252,28.247]",
+        "mapbox_id": "dXJuOm1ieGJuZDpHUkFoOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "block",
+            "z_min": "3"
+        }
+    },
+    "BV": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[3.2845,-54.4549,3.4333,-54.3864]",
+        "mapbox_id": "dXJuOm1ieGJuZDpIaEFpOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "BW": {
+        "adm1": {
+            "description": "district, town, city",
+            "z_min": "0"
+        },
+        "bbox": "[19.9974,-26.9074,29.3714,-17.7782]",
+        "mapbox_id": "dXJuOm1ieGJuZDpIUkFqOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "subdistrict",
+            "z_min": "1"
+        }
+    },
+    "BY": {
+        "adm1": {
+            "description": "region, city",
+            "z_min": "0"
+        },
+        "bbox": "[23.1783,51.2622,32.7769,56.1722]",
+        "mapbox_id": "dXJuOm1ieGJuZDpGQkFrOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "BZ": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[-89.225,15.8859,-87.486,18.4958]",
+        "mapbox_id": "dXJuOm1ieGJuZDpGaEFsOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "CD": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[12.2003,-13.4548,31.3064,5.3922]",
+        "mapbox_id": "dXJuOm1ieGJuZDpQaEFvOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "territory",
+            "z_min": "1"
+        }
+    },
+    "CF": {
+        "adm1": {
+            "description": "prefecture",
+            "z_min": "0"
+        },
+        "bbox": "[14.4152,2.2227,27.4616,11.017]",
+        "mapbox_id": "dXJuOm1ieGJuZDpMQkFwOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "sub-prefecture",
+            "z_min": "1"
+        }
+    },
+    "CG": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[11.1466,-5.0375,18.644,3.7122]",
+        "mapbox_id": "dXJuOm1ieGJuZDpOeEFxOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "CI": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[-8.6029,4.3609,-2.4947,10.7397]",
+        "mapbox_id": "dXJuOm1ieGJuZDpjUkFzOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "region, autonomous district",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "department",
+            "z_min": "2"
+        }
+    },
+    "CK": {
+        "adm1": {
+            "description": "country",
+            "z_min": "3"
+        },
+        "bbox": "[-165.8794,-21.9591,-157.3206,-8.9147]",
+        "mapbox_id": "dXJuOm1ieGJuZDpPQkF0OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "CL": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-109.4498,-55.982,-66.4148,-17.4986]",
+        "mapbox_id": "dXJuOm1ieGJuZDpMaEF1OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "1"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "2"
+        }
+    },
+    "CM": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[8.4987,1.6514,16.1912,13.0809]",
+        "mapbox_id": "dXJuOm1ieGJuZDpKeEF2OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        }
+    },
+    "CN": {
+        "adm1": {
+            "description": "province, special administrative region",
+            "z_min": "0"
+        },
+        "bbox": "[73.4993,7.3643,134.7755,53.561]",
+        "mapbox_id": "dXJuOm1ieGJuZDpMeEF3OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "prefecture, sub-prefecture, province",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "county, district, special administrative region",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "6-4 digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "CO": {
+        "adm1": {
+            "description": "department, capital district",
+            "z_min": "0"
+        },
+        "bbox": "[-81.7356,-4.2273,-66.8465,13.3947]",
+        "mapbox_id": "dXJuOm1ieGJuZDpOUkF4OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "municipality, non municipal area, capital district",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "CR": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[-87.102,5.4991,-82.5514,11.2197]",
+        "mapbox_id": "dXJuOm1ieGJuZDpPUkF5OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "canton",
+            "z_min": "4"
+        },
+        "adm3": {
+            "description": "district",
+            "z_min": "5"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "CU": {
+        "adm1": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "bbox": "[-84.9521,19.8262,-74.1314,23.2767]",
+        "mapbox_id": "dXJuOm1ieGJuZDpPeEF6OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        }
+    },
+    "CW": {
+        "adm1": {
+            "description": "island",
+            "z_min": "1"
+        },
+        "bbox": "[-69.1623,11.978,-68.6395,12.3924]",
+        "mapbox_id": "dXJuOm1ieGJuZDpQQkExOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "DJ": {
+        "adm1": {
+            "description": "region, city",
+            "z_min": "0"
+        },
+        "bbox": "[41.7719,10.9157,43.4537,12.7067]",
+        "mapbox_id": "dXJuOm1ieGJuZDpRQkE2OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district, city",
+            "z_min": "2"
+        }
+    },
+    "DM": {
+        "adm1": {
+            "description": "parish",
+            "z_min": "4"
+        },
+        "bbox": "[-61.4801,15.2076,-61.2401,15.6402]",
+        "mapbox_id": "dXJuOm1ieGJuZDpRUkE4OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "DZ": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[-8.668,18.9562,11.9942,37.0897]",
+        "mapbox_id": "dXJuOm1ieGJuZDpBeEErOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "commune",
+            "z_min": "2"
+        }
+    },
+    "EC": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[-92.0081,-5.0161,-75.1944,1.6817]",
+        "mapbox_id": "dXJuOm1ieGJuZDpReEEvOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "canton",
+            "z_min": "2"
+        }
+    },
+    "EG": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[24.6929,21.9993,36.8944,31.6717]",
+        "mapbox_id": "dXJuOm1ieGJuZDpSQkJCOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "region",
+            "z_min": "2"
+        }
+    },
+    "ER": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[36.4282,12.3629,43.1588,17.9992]",
+        "mapbox_id": "dXJuOm1ieGJuZDpSeEJEOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "subregion",
+            "z_min": "1"
+        }
+    },
+    "ET": {
+        "adm1": {
+            "description": "region, city",
+            "z_min": "0"
+        },
+        "bbox": "[32.9997,3.3961,47.9878,14.8942]",
+        "mapbox_id": "dXJuOm1ieGJuZDpTUkJGOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "zone",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "FJ": {
+        "adm1": {
+            "description": "division, dependency",
+            "z_min": "3"
+        },
+        "bbox": "[176.8997,-21.0425,181.7714,-12.4617]",
+        "mapbox_id": "dXJuOm1ieGJuZDpUQkJIOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "province, dependency",
+            "z_min": "3"
+        }
+    },
+    "FM": {
+        "adm1": {
+            "description": "state",
+            "z_min": "3"
+        },
+        "bbox": "[137.4253,1.0253,163.0356,10.0906]",
+        "mapbox_id": "dXJuOm1ieGJuZDpraEJKOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "FO": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "2"
+        },
+        "bbox": "[-7.6919,61.3903,-6.2536,62.3941]",
+        "mapbox_id": "dXJuOm1ieGJuZDpTeEJLOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "4"
+        },
+        "adm2": {
+            "description": "shire",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "4"
+        },
+        "pos4": {
+            "description": "3-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "GA": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[8.6989,-3.956,14.5281,2.318]",
+        "mapbox_id": "dXJuOm1ieGJuZDpVaEJNOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        }
+    },
+    "GD": {
+        "adm1": {
+            "description": "parish, dependency",
+            "z_min": "5"
+        },
+        "bbox": "[-61.8024,11.9849,-61.3783,12.5402]",
+        "mapbox_id": "dXJuOm1ieGJuZDpXeEJPOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "GE": {
+        "adm1": {
+            "description": "region, autonomous republic",
+            "z_min": "0"
+        },
+        "bbox": "[40.0066,41.0552,46.7361,43.5866]",
+        "mapbox_id": "dXJuOm1ieGJuZDpWQkJQOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality, district, city",
+            "z_min": "2"
+        }
+    },
+    "GF": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-54.6024,2.1111,-51.6291,5.7482]",
+        "mapbox_id": "dXJuOm1ieGJuZDpUeEJROnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "arrondissement",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        },
+        "adm4": {
+            "description": "commune",
+            "z_min": "4"
+        }
+    },
+    "GG": {
+        "adm1": {
+            "description": "crown dependency",
+            "z_min": "0"
+        },
+        "bbox": "[-2.6751,49.4002,-2.1586,49.7328]",
+        "mapbox_id": "dXJuOm1ieGJuZDpYeEJSOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "postcode district",
+            "z_min": "4"
+        },
+        "pos3": {
+            "description": "postcode sector",
+            "z_min": "5"
+        },
+        "adm2": {
+            "description": "parish, island",
+            "z_min": "1"
+        }
+    },
+    "GH": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-3.2551,4.7392,1.2001,11.1683]",
+        "mapbox_id": "dXJuOm1ieGJuZDpWaEJTOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district, municipal district, metropolitan district",
+            "z_min": "1"
+        }
+    },
+    "GI": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[-5.3661,36.1089,-5.3386,36.155]",
+        "mapbox_id": "dXJuOm1ieGJuZDpWeEJUOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "postcode district",
+            "z_min": "4"
+        },
+        "pos3": {
+            "description": "postcode sector",
+            "z_min": "5"
+        },
+        "pos4": {
+            "description": "postcode unit",
+            "z_min": "8"
+        }
+    },
+    "GL": {
+        "adm1": {
+            "description": "autonomous territory",
+            "z_min": "0"
+        },
+        "bbox": "[-73.2481,59.7756,-11.4833,83.6607]",
+        "mapbox_id": "dXJuOm1ieGJuZDpXaEJVOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "1"
+        }
+    },
+    "GM": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-16.8137,13.0432,-13.7917,13.8266]",
+        "mapbox_id": "dXJuOm1ieGJuZDpVeEJWOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "GN": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-15.0761,7.1905,-7.6374,12.6756]",
+        "mapbox_id": "dXJuOm1ieGJuZDpZQkJXOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "prefecture",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "municipality",
+            "z_min": "2"
+        }
+    },
+    "GP": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-61.8096,15.8321,-61.002,16.5144]",
+        "mapbox_id": "dXJuOm1ieGJuZDpYQkJYOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "arrondissement",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        },
+        "adm4": {
+            "description": "commune",
+            "z_min": "6"
+        }
+    },
+    "GQ": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[5.6169,-1.4681,11.3654,3.7883]",
+        "mapbox_id": "dXJuOm1ieGJuZDpSaEJZOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "1"
+        }
+    },
+    "GT": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[-92.2296,13.7402,-88.2333,17.8166]",
+        "mapbox_id": "dXJuOm1ieGJuZDpYaEJiOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        }
+    },
+    "GU": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[144.6181,13.2338,144.9569,13.6544]",
+        "mapbox_id": "dXJuOm1ieGJuZDpYUkJjOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "senate",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "village",
+            "z_min": "6"
+        },
+        "sta4": {
+            "description": "tract",
+            "z_min": "5"
+        },
+        "sta5": {
+            "description": "block group",
+            "z_min": "6"
+        },
+        "leg2": {
+            "description": "congressional district",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "GW": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-16.7153,10.8643,-13.6342,12.6855]",
+        "mapbox_id": "dXJuOm1ieGJuZDpZUkJkOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "sector",
+            "z_min": "1"
+        }
+    },
+    "GY": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-61.3918,1.1693,-56.4851,8.5349]",
+        "mapbox_id": "dXJuOm1ieGJuZDpZaEJlOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "neighbourhood democratic council",
+            "z_min": "1"
+        }
+    },
+    "HN": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[-89.3564,12.9831,-83.1488,16.5168]",
+        "mapbox_id": "dXJuOm1ieGJuZDpaaEJoOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode areas",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "settlement",
+            "z_min": "5"
+        }
+    },
+    "HT": {
+        "adm1": {
+            "description": "department",
+            "z_min": "2"
+        },
+        "bbox": "[-74.4808,18.0219,-71.6218,20.0893]",
+        "mapbox_id": "dXJuOm1ieGJuZDpaQkJqOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "arrondissement",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "township",
+            "z_min": "4"
+        },
+        "adm4": {
+            "description": "section",
+            "z_min": "5"
+        }
+    },
+    "ID": {
+        "adm1": {
+            "description": "province, special capital region, special region",
+            "z_min": "0"
+        },
+        "bbox": "[95.0105,-11.0097,141.0222,6.0769]",
+        "mapbox_id": "dXJuOm1ieGJuZDphaEJsOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "regency, city",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "district",
+            "z_min": "4"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        },
+        "adm4": {
+            "description": "village",
+            "z_min": "6"
+        }
+    },
+    "IL": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[34.2676,29.4956,35.8962,33.3328]",
+        "mapbox_id": "dXJuOm1ieGJuZDpieEJuOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "subdistrict",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "natural region",
+            "z_min": "2"
+        }
+    },
+    "IN": {
+        "adm1": {
+            "description": "state, union territory",
+            "z_min": "0"
+        },
+        "bbox": "[68.1745,6.756,97.3954,35.6733]",
+        "mapbox_id": "dXJuOm1ieGJuZDphUkJwOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "tehsil, mandal, block",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "IO": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[71.2374,-7.4446,72.4957,-5.236]",
+        "mapbox_id": "dXJuOm1ieGJuZDpJQkJxOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "IQ": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[38.7937,29.0612,48.6147,37.3807]",
+        "mapbox_id": "dXJuOm1ieGJuZDpiQkJyOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "IR": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[44.0326,25.0591,63.3333,39.7822]",
+        "mapbox_id": "dXJuOm1ieGJuZDpheEJzOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "county",
+            "z_min": "1"
+        }
+    },
+    "JE": {
+        "adm1": {
+            "description": "crown dependency",
+            "z_min": "0"
+        },
+        "bbox": "[-2.2545,49.1631,-2.017,49.2623]",
+        "mapbox_id": "dXJuOm1ieGJuZDpkQkJ2OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "postcode district",
+            "z_min": "4"
+        },
+        "pos3": {
+            "description": "postcode sector",
+            "z_min": "5"
+        },
+        "adm2": {
+            "description": "parish",
+            "z_min": "1"
+        }
+    },
+    "JM": {
+        "adm1": {
+            "description": "parish",
+            "z_min": "2"
+        },
+        "bbox": "[-78.3688,17.7058,-76.1829,18.525]",
+        "mapbox_id": "dXJuOm1ieGJuZDpjaEJ3OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "2"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "JO": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[34.9581,29.185,39.3012,33.3747]",
+        "mapbox_id": "dXJuOm1ieGJuZDpkUkJ4OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "KG": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[69.2516,39.181,80.2282,43.2662]",
+        "mapbox_id": "dXJuOm1ieGJuZDpleEIwOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "KH": {
+        "adm1": {
+            "description": "province, autonomous municipality",
+            "z_min": "0"
+        },
+        "bbox": "[102.3337,10.3531,107.6277,14.6902]",
+        "mapbox_id": "dXJuOm1ieGJuZDpKaEIxOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        },
+        "adm2": {
+            "description": "district, municipality, section",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "commune",
+            "z_min": "4"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "KM": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[43.2291,-12.4221,44.5405,-11.3649]",
+        "mapbox_id": "dXJuOm1ieGJuZDpOaEIzOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "KN": {
+        "adm1": {
+            "description": "island",
+            "z_min": "0"
+        },
+        "bbox": "[-62.8643,17.0941,-62.5395,17.4178]",
+        "mapbox_id": "dXJuOm1ieGJuZDp2UkI0OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "parish",
+            "z_min": "5"
+        }
+    },
+    "KP": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[124.1813,37.6769,130.699,43.0092]",
+        "mapbox_id": "dXJuOm1ieGJuZDpwaEI1OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "county, city, district",
+            "z_min": "2"
+        }
+    },
+    "KR": {
+        "adm1": {
+            "description": "province, metropolitan city, special city",
+            "z_min": "0"
+        },
+        "bbox": "[124.6098,33.1128,131.8728,38.6172]",
+        "mapbox_id": "dXJuOm1ieGJuZDowaEI2OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "4"
+        },
+        "adm2": {
+            "description": "county, city, district",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "non-autonomous district",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "6"
+        },
+        "adm4": {
+            "description": "neighborhood, township, town",
+            "z_min": "6"
+        }
+    },
+    "KW": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[46.553,28.5244,48.7781,30.1037]",
+        "mapbox_id": "dXJuOm1ieGJuZDplaEI3OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "KY": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "1"
+        },
+        "bbox": "[-81.4202,19.263,-79.723,19.7569]",
+        "mapbox_id": "dXJuOm1ieGJuZDpLeEI4OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "1-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "KZ": {
+        "adm1": {
+            "description": "region, city",
+            "z_min": "0"
+        },
+        "bbox": "[46.4937,40.5687,87.3154,55.442]",
+        "mapbox_id": "dXJuOm1ieGJuZDpkaEI5OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district, city",
+            "z_min": "1"
+        }
+    },
+    "LA": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[100.0839,13.9097,107.6351,22.509]",
+        "mapbox_id": "dXJuOm1ieGJuZDpmQkIrOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "LB": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "1"
+        },
+        "bbox": "[35.1036,33.055,36.6237,34.6921]",
+        "mapbox_id": "dXJuOm1ieGJuZDpmaEIvOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "3"
+        }
+    },
+    "LC": {
+        "adm1": {
+            "description": "district",
+            "z_min": "5"
+        },
+        "bbox": "[-61.0798,13.7076,-60.8732,14.1104]",
+        "mapbox_id": "dXJuOm1ieGJuZDp2aENBOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "LK": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[79.6505,5.9216,81.8789,9.8358]",
+        "mapbox_id": "dXJuOm1ieGJuZDoxUkNDOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "LR": {
+        "adm1": {
+            "description": "county",
+            "z_min": "1"
+        },
+        "bbox": "[-11.4917,4.3535,-7.3672,8.551]",
+        "mapbox_id": "dXJuOm1ieGJuZDpnQkNEOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "LS": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[27.0112,-30.6756,29.4557,-28.5708]",
+        "mapbox_id": "dXJuOm1ieGJuZDpmeENFOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "LY": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[9.3923,19.5087,25.1471,33.1669]",
+        "mapbox_id": "dXJuOm1ieGJuZDpnUkNJOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "MA": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-13.1671,27.6705,-1.0108,35.9222]",
+        "mapbox_id": "dXJuOm1ieGJuZDptQkNKOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "commune",
+            "z_min": "3"
+        }
+    },
+    "MC": {
+        "adm1": {
+            "description": "commune",
+            "z_min": "3"
+        },
+        "bbox": "[7.4091,43.7248,7.44,43.7519]",
+        "mapbox_id": "dXJuOm1ieGJuZDpsQkNLOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "quartier",
+            "z_min": "6"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "MD": {
+        "adm1": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "bbox": "[26.6164,45.4664,30.1637,48.492]",
+        "mapbox_id": "dXJuOm1ieGJuZDpreENMOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "4"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "MF": {
+        "adm1": {
+            "description": "collectivity",
+            "z_min": "3"
+        },
+        "bbox": "[-63.1533,18.0447,-62.9706,18.1252]",
+        "mapbox_id": "dXJuOm1ieGJuZDp2eENOOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "MG": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[43.1885,-25.6062,50.4861,-11.9488]",
+        "mapbox_id": "dXJuOm1ieGJuZDpoaENPOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "1-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "MH": {
+        "adm1": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "bbox": "[160.7953,4.5725,172.1725,14.7232]",
+        "mapbox_id": "dXJuOm1ieGJuZDpqQkNQOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "ML": {
+        "adm1": {
+            "description": "region, city",
+            "z_min": "0"
+        },
+        "bbox": "[-12.2403,10.1521,4.2493,24.9999]",
+        "mapbox_id": "dXJuOm1ieGJuZDppaENSOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "cercle, district",
+            "z_min": "1"
+        }
+    },
+    "MM": {
+        "adm1": {
+            "description": "state, region, union territory",
+            "z_min": "0"
+        },
+        "bbox": "[92.172,9.5979,101.1703,28.5478]",
+        "mapbox_id": "dXJuOm1ieGJuZDptaENTOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "township",
+            "z_min": "2"
+        }
+    },
+    "MN": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[87.7345,41.5818,119.9315,52.1484]",
+        "mapbox_id": "dXJuOm1ieGJuZDpsUkNUOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "MP": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[144.8863,14.1104,146.0648,20.5538]",
+        "mapbox_id": "dXJuOm1ieGJuZDpweENWOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "senate",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "sta3": {
+            "description": "tract",
+            "z_min": "4"
+        },
+        "sta4": {
+            "description": "block group",
+            "z_min": "6"
+        },
+        "leg2": {
+            "description": "congressional district",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode areas",
+            "z_min": "3"
+        }
+    },
+    "MQ": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-61.2293,14.3887,-60.8095,14.8788]",
+        "mapbox_id": "dXJuOm1ieGJuZDpqUkNXOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "region",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "arrondissement",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        },
+        "adm4": {
+            "description": "commune",
+            "z_min": "6"
+        }
+    },
+    "MR": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-17.0698,14.7202,-4.83,27.3129]",
+        "mapbox_id": "dXJuOm1ieGJuZDpqaENYOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        }
+    },
+    "MS": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "1"
+        },
+        "bbox": "[-62.242,16.6744,-62.1442,16.824]",
+        "mapbox_id": "dXJuOm1ieGJuZDpseENZOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "parish",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "MU": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[56.5853,-20.5255,63.5033,-10.3372]",
+        "mapbox_id": "dXJuOm1ieGJuZDpqeENhOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "0"
+        }
+    },
+    "MW": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[32.6748,-17.1259,35.9173,-9.3622]",
+        "mapbox_id": "dXJuOm1ieGJuZDpoeENjOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "MX": {
+        "adm1": {
+            "description": "state, federal district",
+            "z_min": "0"
+        },
+        "bbox": "[-118.3651,14.53,-86.7104,32.7187]",
+        "mapbox_id": "dXJuOm1ieGJuZDprUkNkOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-2-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "MY": {
+        "adm1": {
+            "description": "state, federal territory",
+            "z_min": "0"
+        },
+        "bbox": "[99.6407,0.8539,119.2697,7.3806]",
+        "mapbox_id": "dXJuOm1ieGJuZDppQkNlOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "division",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "MZ": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[30.2167,-26.8681,40.8393,-10.4709]",
+        "mapbox_id": "dXJuOm1ieGJuZDptUkNmOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "NA": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[11.7366,-28.9695,25.2562,-16.9635]",
+        "mapbox_id": "dXJuOm1ieGJuZDpteENnOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "0"
+        }
+    },
+    "NC": {
+        "adm1": {
+            "description": "collectivity",
+            "z_min": "3"
+        },
+        "bbox": "[158.2487,-22.848,172.09,-18.0264]",
+        "mapbox_id": "dXJuOm1ieGJuZDpueENoOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "NE": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[0.1672,11.6954,15.9979,23.518]",
+        "mapbox_id": "dXJuOm1ieGJuZDpvaENpOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        }
+    },
+    "NG": {
+        "adm1": {
+            "description": "state, federal territory",
+            "z_min": "0"
+        },
+        "bbox": "[2.6732,4.2707,14.678,13.8934]",
+        "mapbox_id": "dXJuOm1ieGJuZDpveENrOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "local government area",
+            "z_min": "2"
+        }
+    },
+    "NI": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[-87.6906,10.7094,-82.7346,15.0294]",
+        "mapbox_id": "dXJuOm1ieGJuZDpvUkNsOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "1-digit postcode areas",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "2-digit postcode areas",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "3-5-digit postcode areas",
+            "z_min": "3"
+        }
+    },
+    "NR": {
+        "adm1": {
+            "description": "district",
+            "z_min": "3"
+        },
+        "bbox": "[166.9095,-0.5543,166.9593,-0.5021]",
+        "mapbox_id": "dXJuOm1ieGJuZDpuQkNwOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "NU": {
+        "adm1": {
+            "description": "country",
+            "z_min": "3"
+        },
+        "bbox": "[-169.9508,-19.1561,-169.7737,-18.9523]",
+        "mapbox_id": "dXJuOm1ieGJuZDpwQkNxOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "OM": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[52,16.6501,59.8398,26.4049]",
+        "mapbox_id": "dXJuOm1ieGJuZDpxUkNzOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "1-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "PA": {
+        "adm1": {
+            "description": "province, indigenous region",
+            "z_min": "0"
+        },
+        "bbox": "[-83.0516,7.2038,-77.1394,9.6457]",
+        "mapbox_id": "dXJuOm1ieGJuZDpyUkN0OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode areas",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "district, indigenous region",
+            "z_min": "2"
+        }
+    },
+    "PE": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[-81.3282,-18.3517,-68.6521,-0.0389]",
+        "mapbox_id": "dXJuOm1ieGJuZDpzQkN1OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "districts",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "PF": {
+        "adm1": {
+            "description": "collectivity",
+            "z_min": "0"
+        },
+        "bbox": "[-154.7272,-27.9005,-134.4511,-7.895]",
+        "mapbox_id": "dXJuOm1ieGJuZDpVQkN2OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "PG": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[140.842,-11.6554,155.9831,-1.3148]",
+        "mapbox_id": "dXJuOm1ieGJuZDpyaEN3OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "PH": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[114.2779,4.5873,126.6049,21.1219]",
+        "mapbox_id": "dXJuOm1ieGJuZDovUkN4OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "province, region",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "municipality, city, lake",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "5"
+        },
+        "adm4": {
+            "description": "barangay",
+            "z_min": "7"
+        }
+    },
+    "PK": {
+        "adm1": {
+            "description": "autonomous territory, province, federal territory",
+            "z_min": "0"
+        },
+        "bbox": "[60.873,23.7046,77.1204,37.0914]",
+        "mapbox_id": "dXJuOm1ieGJuZDpxaEN5OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "division",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "PM": {
+        "adm1": {
+            "description": "collectivity",
+            "z_min": "3"
+        },
+        "bbox": "[-56.406,46.7489,-56.1266,47.145]",
+        "mapbox_id": "dXJuOm1ieGJuZDp3QkMwOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "PN": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[-130.7562,-25.0798,-124.772,-23.9077]",
+        "mapbox_id": "dXJuOm1ieGJuZDpzaEMxOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "PR": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "2"
+        },
+        "bbox": "[-67.9514,17.8814,-65.2211,18.516]",
+        "mapbox_id": "dXJuOm1ieGJuZDp0UkMyOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "senate",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "4"
+        },
+        "adm3": {
+            "description": "submunicipality",
+            "z_min": "6"
+        },
+        "leg4": {
+            "description": "state house district",
+            "z_min": "4"
+        },
+        "leg2": {
+            "description": "congressional district",
+            "z_min": "2"
+        },
+        "leg3": {
+            "description": "state senate district",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "PS": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[34.2186,31.2203,35.5741,32.5521]",
+        "mapbox_id": "dXJuOm1ieGJuZDpyQkMzOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "governorate",
+            "z_min": "2"
+        }
+    },
+    "PW": {
+        "adm1": {
+            "description": "state",
+            "z_min": "3"
+        },
+        "bbox": "[131.1199,2.9714,134.7214,8.0942]",
+        "mapbox_id": "dXJuOm1ieGJuZDpxeEM1OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "PY": {
+        "adm1": {
+            "description": "department, capital district",
+            "z_min": "0"
+        },
+        "bbox": "[-62.6415,-27.5759,-54.2608,-19.2928]",
+        "mapbox_id": "dXJuOm1ieGJuZDpyeEM2OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "6-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "RE": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[55.2165,-21.3896,55.8366,-20.8718]",
+        "mapbox_id": "dXJuOm1ieGJuZDp0eEM4OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "arrondissement",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        },
+        "adm4": {
+            "description": "commune",
+            "z_min": "6"
+        }
+    },
+    "RW": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[28.862,-2.8388,30.8991,-1.0479]",
+        "mapbox_id": "dXJuOm1ieGJuZDp1aERBOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "sector",
+            "z_min": "2"
+        }
+    },
+    "SA": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[34.4953,16.3795,55.6667,32.1543]",
+        "mapbox_id": "dXJuOm1ieGJuZDp4UkRCOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "governorate",
+            "z_min": "1"
+        }
+    },
+    "SB": {
+        "adm1": {
+            "description": "province",
+            "z_min": "3"
+        },
+        "bbox": "[155.5122,-12.3083,170.1925,-5.0269]",
+        "mapbox_id": "dXJuOm1ieGJuZDp6aERDOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "SC": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[46.2029,-10.2271,56.2947,-3.7129]",
+        "mapbox_id": "dXJuOm1ieGJuZDp5QkREOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "SD": {
+        "adm1": {
+            "description": "state",
+            "z_min": "0"
+        },
+        "bbox": "[21.8143,8.683,38.8492,22.0065]",
+        "mapbox_id": "dXJuOm1ieGJuZDoxaERFOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "SH": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[-14.421,-40.3714,-5.6341,-7.8892]",
+        "mapbox_id": "dXJuOm1ieGJuZDp2QkRIOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "SL": {
+        "adm1": {
+            "description": "province, area",
+            "z_min": "0"
+        },
+        "bbox": "[-13.3064,6.9246,-10.2741,10.0001]",
+        "mapbox_id": "dXJuOm1ieGJuZDp5UkRMOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "SM": {
+        "adm1": {
+            "description": "castello",
+            "z_min": "3"
+        },
+        "bbox": "[12.4033,43.8936,12.5162,43.9921]",
+        "mapbox_id": "dXJuOm1ieGJuZDp3eERNOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    },
+    "SN": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-17.5302,12.3068,-11.3463,16.6916]",
+        "mapbox_id": "dXJuOm1ieGJuZDp4aEROOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode areas",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        }
+    },
+    "SO": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[40.9924,-1.6627,51.4156,11.9893]",
+        "mapbox_id": "dXJuOm1ieGJuZDp6eERPOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "SR": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[-58.0547,1.8344,-53.9798,6.0088]",
+        "mapbox_id": "dXJuOm1ieGJuZDoxeERQOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "resort",
+            "z_min": "1"
+        }
+    },
+    "SS": {
+        "adm1": {
+            "description": "state",
+            "z_min": "0"
+        },
+        "bbox": "[24.1507,3.4803,35.9353,12.2322]",
+        "mapbox_id": "dXJuOm1ieGJuZDoweERROnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "county",
+            "z_min": "0"
+        }
+    },
+    "SV": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[-90.1327,13.1524,-87.6905,14.451]",
+        "mapbox_id": "dXJuOm1ieGJuZDpSUkRTOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode areas",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode areas",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "5-digit postcode areas",
+            "z_min": "0"
+        }
+    },
+    "SX": {
+        "adm1": {
+            "description": "island",
+            "z_min": "1"
+        },
+        "bbox": "[-63.1373,18.0051,-63.0135,18.0626]",
+        "mapbox_id": "dXJuOm1ieGJuZDp5eERUOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "SY": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[35.7167,32.3111,42.3763,37.3206]",
+        "mapbox_id": "dXJuOm1ieGJuZDozQkRVOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "SZ": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[30.7908,-27.3175,32.1322,-25.7188]",
+        "mapbox_id": "dXJuOm1ieGJuZDoyUkRWOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "constituency",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "TC": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "1"
+        },
+        "bbox": "[-72.4829,21.1777,-71.0828,21.9625]",
+        "mapbox_id": "dXJuOm1ieGJuZDo2UkRXOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "postcode unit",
+            "z_min": "2"
+        }
+    },
+    "TD": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[13.4731,7.4418,24.0016,23.4504]",
+        "mapbox_id": "dXJuOm1ieGJuZDpMUkRYOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "prefecture",
+            "z_min": "1"
+        }
+    },
+    "TF": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[40.3259,-50.0213,77.5957,-11.5678]",
+        "mapbox_id": "dXJuOm1ieGJuZDpVUkRZOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "TG": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-0.1438,6.1126,1.8091,11.1373]",
+        "mapbox_id": "dXJuOm1ieGJuZDo0aERaOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "prefecture",
+            "z_min": "1"
+        }
+    },
+    "TH": {
+        "adm1": {
+            "description": "province, special administrative area",
+            "z_min": "1"
+        },
+        "bbox": "[97.3434,5.6129,105.6368,20.4651]",
+        "mapbox_id": "dXJuOm1ieGJuZDo0QkRhOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "tambon, lake",
+            "z_min": "4"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "3"
+        }
+    },
+    "TJ": {
+        "adm1": {
+            "description": "region, districts under republic administration, autonomous region",
+            "z_min": "0"
+        },
+        "bbox": "[67.3372,36.672,75.154,41.0449]",
+        "mapbox_id": "dXJuOm1ieGJuZDozaERiOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "TK": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[-172.5208,-9.444,-171.1814,-8.532]",
+        "mapbox_id": "dXJuOm1ieGJuZDo0eERjOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "TL": {
+        "adm1": {
+            "description": "municipality, special administrative region",
+            "z_min": "0"
+        },
+        "bbox": "[124.0419,-9.5037,127.3423,-8.1269]",
+        "mapbox_id": "dXJuOm1ieGJuZDo0UkRkOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "administrative post",
+            "z_min": "1"
+        }
+    },
+    "TM": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[52.4456,35.1291,66.7074,42.7983]",
+        "mapbox_id": "dXJuOm1ieGJuZDo2QkRlOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district, city",
+            "z_min": "1"
+        }
+    },
+    "TO": {
+        "adm1": {
+            "description": "province",
+            "z_min": "3"
+        },
+        "bbox": "[-176.2137,-22.3497,-173.7351,-15.5659]",
+        "mapbox_id": "dXJuOm1ieGJuZDo1QkRnOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "TT": {
+        "adm1": {
+            "description": "region, borough, city",
+            "z_min": "1"
+        },
+        "bbox": "[-61.9309,10.0425,-60.4925,11.3588]",
+        "mapbox_id": "dXJuOm1ieGJuZDo1UkRpOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "parish",
+            "z_min": "1"
+        }
+    },
+    "TV": {
+        "adm1": {
+            "description": "province",
+            "z_min": "3"
+        },
+        "bbox": "[176.0588,-10.7916,179.8711,-5.6425]",
+        "mapbox_id": "dXJuOm1ieGJuZDo2aERqOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "TZ": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[29.3908,-11.7613,40.4451,-0.9858]",
+        "mapbox_id": "dXJuOm1ieGJuZDozeERsOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "UA": {
+        "adm1": {
+            "description": "region, city, autonomous republic",
+            "z_min": "0"
+        },
+        "bbox": "[22.1371,44.3866,40.2256,52.3794]",
+        "mapbox_id": "dXJuOm1ieGJuZDo3QkRtOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "district, city",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "community, Suffix added to disambiguate name, city",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "3-5 digit postcode area",
+            "z_min": "5"
+        },
+        "adm4": {
+            "description": "urban district",
+            "z_min": "3"
+        }
+    },
+    "UG": {
+        "adm1": {
+            "description": "district",
+            "z_min": "0"
+        },
+        "bbox": "[29.5722,-1.4873,35.0197,4.2267]",
+        "mapbox_id": "dXJuOm1ieGJuZDo2eERuOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "county",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "sub-county",
+            "z_min": "4"
+        }
+    },
+    "UM": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "3"
+        },
+        "bbox": "[-193.4023,-0.3805,-75.002,28.2186]",
+        "mapbox_id": "dXJuOm1ieGJuZDo4QkRvOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "UY": {
+        "adm1": {
+            "description": "department",
+            "z_min": "0"
+        },
+        "bbox": "[-58.4891,-34.9735,-53.1014,-30.0853]",
+        "mapbox_id": "dXJuOm1ieGJuZDo3eERxOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "1"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "UZ": {
+        "adm1": {
+            "description": "province, city, autonomous republic",
+            "z_min": "0"
+        },
+        "bbox": "[55.9982,37.1723,73.1489,45.5901]",
+        "mapbox_id": "dXJuOm1ieGJuZDo4eERyOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district, city",
+            "z_min": "2"
+        }
+    },
+    "VC": {
+        "adm1": {
+            "description": "parish",
+            "z_min": "5"
+        },
+        "bbox": "[-61.4609,12.5789,-61.1149,13.3832]",
+        "mapbox_id": "dXJuOm1ieGJuZDp3UkR0OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "VE": {
+        "adm1": {
+            "description": "state, federal district",
+            "z_min": "0"
+        },
+        "bbox": "[-73.3529,0.6469,-59.8065,12.4912]",
+        "mapbox_id": "dXJuOm1ieGJuZDo5aER1OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "municipality",
+            "z_min": "1"
+        }
+    },
+    "VI": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[-65.0853,17.674,-64.5652,18.413]",
+        "mapbox_id": "dXJuOm1ieGJuZDo4UkR3OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "senate",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "subdistrict",
+            "z_min": "1"
+        },
+        "leg2": {
+            "description": "congressional district",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "VN": {
+        "adm1": {
+            "description": "province, city",
+            "z_min": "1"
+        },
+        "bbox": "[102.1439,7.6024,116.6811,23.3927]",
+        "mapbox_id": "dXJuOm1ieGJuZDo5eER4OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "3-digit postcode area",
+            "z_min": "4"
+        },
+        "adm2": {
+            "description": "district, city, town",
+            "z_min": "3"
+        },
+        "adm3": {
+            "description": "ward, commune",
+            "z_min": "4"
+        }
+    },
+    "VU": {
+        "adm1": {
+            "description": "province",
+            "z_min": "3"
+        },
+        "bbox": "[166.5414,-20.2532,170.2402,-13.0725]",
+        "mapbox_id": "dXJuOm1ieGJuZDo5QkR5OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "WF": {
+        "adm1": {
+            "description": "collectivity",
+            "z_min": "3"
+        },
+        "bbox": "[-178.1824,-14.3622,-176.1242,-13.1828]",
+        "mapbox_id": "dXJuOm1ieGJuZDorQkR6OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        }
+    },
+    "XS": {
+        "adm1": {
+            "description": "base area",
+            "z_min": "0"
+        },
+        "bbox": "[32.7549,34.5623,33.9166,35.1237]",
+        "mapbox_id": "dXJuOm1ieGJuZDoveEQyOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "community",
+            "z_min": "5"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "6"
+        }
+    },
+    "YE": {
+        "adm1": {
+            "description": "governorate",
+            "z_min": "0"
+        },
+        "bbox": "[41.9037,12.1081,54.5343,18.9996]",
+        "mapbox_id": "dXJuOm1ieGJuZDoraEQzOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "1"
+        }
+    },
+    "YT": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[45.0181,-13.0058,45.3,-12.636]",
+        "mapbox_id": "dXJuOm1ieGJuZDprQkQ0OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "department",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "arrondissement",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "4"
+        },
+        "adm4": {
+            "description": "commune",
+            "z_min": "6"
+        }
+    },
+    "ZA": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[16.4519,-34.8342,32.8911,-22.125]",
+        "mapbox_id": "dXJuOm1ieGJuZDowQkQ1OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "district municipality",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "local municipality",
+            "z_min": "2"
+        },
+        "leg5": {
+            "description": "ward",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "4-digit postcode area",
+            "z_min": "4"
+        }
+    },
+    "ZM": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[22,-18.0765,33.703,-8.2415]",
+        "mapbox_id": "dXJuOm1ieGJuZDoreEQ2OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "leg1": {
+            "description": "constituency",
+            "z_min": "1"
+        },
+        "adm2": {
+            "description": "district",
+            "z_min": "0"
+        }
+    },
+    "ZW": {
+        "adm1": {
+            "description": "province",
+            "z_min": "0"
+        },
+        "bbox": "[25.2374,-22.422,33.054,-15.6099]",
+        "mapbox_id": "dXJuOm1ieGJuZDovQkQ3OnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "adm2": {
+            "description": "district, town, city",
+            "z_min": "1"
+        }
+    },
+    "EH": {
+        "adm1": {
+            "description": "region",
+            "z_min": "0"
+        },
+        "bbox": "[-17.1033,20.7697,-8.6663,27.6837]",
+        "mapbox_id": "dXJuOm1ieGJuZDorUkJDOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "1-digit postcode area",
+            "z_min": "1"
+        },
+        "pos2": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "province",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "commune",
+            "z_min": "1"
+        }
+    },
+    "HK": {
+        "adm1": {
+            "description": "special administrative region",
+            "z_min": "0"
+        },
+        "bbox": "[113.8351,22.1539,114.4417,22.5619]",
+        "mapbox_id": "dXJuOm1ieGJuZDpBL0FRWHc6djQ",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "prefecture",
+            "z_min": "1"
+        },
+        "adm3": {
+            "description": "district",
+            "z_min": "2"
+        }
+    },
+    "MO": {
+        "adm1": {
+            "description": "special administrative region",
+            "z_min": "0"
+        },
+        "bbox": "[113.5287,22.1097,113.5983,22.2171]",
+        "mapbox_id": "dXJuOm1ieGJuZDpBL0VRbEE6djQ",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos1": {
+            "description": "2-digit postcode area",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "3-digit postcode area",
+            "z_min": "1"
+        },
+        "pos3": {
+            "description": "4-digit postcode area",
+            "z_min": "2"
+        },
+        "adm2": {
+            "description": "prefecture",
+            "z_min": "1"
+        }
+    },
+    "TW": {
+        "adm1": {
+            "description": "special municipality, province",
+            "z_min": "0"
+        },
+        "bbox": "[114.3593,10.3713,122.1091,26.3853]",
+        "mapbox_id": "dXJuOm1ieGJuZDozUkRrOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos2": {
+            "description": "1-digit postcode area",
+            "z_min": "2"
+        },
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "3"
+        },
+        "adm2": {
+            "description": "county, special municipality, provincial city",
+            "z_min": "2"
+        },
+        "adm3": {
+            "description": "township, district, city",
+            "z_min": "3"
+        },
+        "pos4": {
+            "description": "3-digit postcode area",
+            "z_min": "4"
+        },
+        "adm4": {
+            "description": "village",
+            "z_min": "7"
+        }
+    },
+    "FK": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "1"
+        },
+        "bbox": "[-61.4563,-52.9191,-57.7147,-50.9967]",
+        "mapbox_id": "dXJuOm1ieGJuZDpTaEJJOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "7-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "GS": {
+        "adm1": {
+            "description": "territory",
+            "z_min": "0"
+        },
+        "bbox": "[-42.2024,-59.4855,-26.2675,-53.3417]",
+        "mapbox_id": "dXJuOm1ieGJuZDowUkJhOnY0",
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "pos4": {
+            "description": "7-digit postcode area",
+            "z_min": "2"
+        }
+    },
+    "AQ": {
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "bbox": "[-180,-85.0511,180,-60.5155]",
+        "mapbox_id": "dXJuOm1ieGJuZDpDQkFKOnY0"
+    },
+    "KI": {
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "bbox": "[-190.4791,-11.4479,-150.1953,4.6994]",
+        "mapbox_id": "dXJuOm1ieGJuZDplQkIyOnY0"
+    },
+    "VA": {
+        "adm0": {
+            "description": "country/territory",
+            "z_min": "0"
+        },
+        "bbox": "[12.4457,41.9002,12.4584,41.9074]",
+        "mapbox_id": "dXJuOm1ieGJuZDo5UkRzOnY0",
+        "pos3": {
+            "description": "2-digit postcode area",
+            "z_min": "2"
+        },
+        "pos4": {
+            "description": "5-digit postcode area",
+            "z_min": "5"
+        }
+    }
+}

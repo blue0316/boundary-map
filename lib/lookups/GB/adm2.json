@@ -1,0 +1,783 @@
+{
+    "polyTilesetName": "mapbox.boundaries-adm2-v4",
+    "pointLayerName": "points_admin_2",
+    "polyLayerName": "boundaries_admin_2",
+    "description": "unitary authority",
+    "all": {
+        "dXJuOm1ieGJuZDpBUlJOOnY0": {
+            "name": "Hartlepool",
+            "code": "E06000001",
+            "wikidata_id": "Q2594690"
+        },
+        "dXJuOm1ieGJuZDpBaFJOOnY0": {
+            "name": "Middlesbrough",
+            "code": "E06000002",
+            "wikidata_id": "Q2673020"
+        },
+        "dXJuOm1ieGJuZDpBeFJOOnY0": {
+            "name": "Redcar and Cleveland",
+            "code": "E06000003",
+            "wikidata_id": "Q1434448"
+        },
+        "dXJuOm1ieGJuZDpCQlJOOnY0": {
+            "name": "Stockton-on-Tees",
+            "code": "E06000004",
+            "wikidata_id": "Q894094"
+        },
+        "dXJuOm1ieGJuZDpCUlJOOnY0": {
+            "name": "Darlington",
+            "code": "E06000005",
+            "wikidata_id": "Q1171024"
+        },
+        "dXJuOm1ieGJuZDpCaFJOOnY0": {
+            "name": "Halton",
+            "code": "E06000006",
+            "wikidata_id": "Q376141"
+        },
+        "dXJuOm1ieGJuZDpCeFJOOnY0": {
+            "name": "Warrington",
+            "code": "E06000007",
+            "wikidata_id": "Q894095"
+        },
+        "dXJuOm1ieGJuZDpDQlJOOnY0": {
+            "name": "Blackburn with Darwen",
+            "code": "E06000008",
+            "wikidata_id": "Q880782"
+        },
+        "dXJuOm1ieGJuZDpDUlJOOnY0": {
+            "name": "Blackpool",
+            "code": "E06000009",
+            "wikidata_id": "Q20989106"
+        },
+        "dXJuOm1ieGJuZDpDaFJOOnY0": {
+            "name": "Kingston upon Hull",
+            "code": "E06000010",
+            "wikidata_id": "Q128147"
+        },
+        "dXJuOm1ieGJuZDpDeFJOOnY0": {
+            "name": "East Riding of Yorkshire",
+            "code": "E06000011",
+            "wikidata_id": "Q23088"
+        },
+        "dXJuOm1ieGJuZDpEQlJOOnY0": {
+            "name": "North East Lincolnshire",
+            "code": "E06000012",
+            "wikidata_id": "Q1342914"
+        },
+        "dXJuOm1ieGJuZDpEUlJOOnY0": {
+            "name": "North Lincolnshire",
+            "code": "E06000013",
+            "wikidata_id": "Q175945"
+        },
+        "dXJuOm1ieGJuZDpEaFJOOnY0": {
+            "name": "York",
+            "code": "E06000014",
+            "wikidata_id": "Q20986421"
+        },
+        "dXJuOm1ieGJuZDpEeFJOOnY0": {
+            "name": "Derby",
+            "code": "E06000015",
+            "wikidata_id": "Q21885980"
+        },
+        "dXJuOm1ieGJuZDpFQlJOOnY0": {
+            "name": "Leicester",
+            "code": "E06000016",
+            "wikidata_id": "Q21683242"
+        },
+        "dXJuOm1ieGJuZDpFUlJOOnY0": {
+            "name": "Rutland",
+            "code": "E06000017",
+            "wikidata_id": "Q23107"
+        },
+        "dXJuOm1ieGJuZDpFaFJOOnY0": {
+            "name": "Nottingham",
+            "code": "E06000018",
+            "wikidata_id": "Q21885994"
+        },
+        "dXJuOm1ieGJuZDpFeFJOOnY0": {
+            "name": "Herefordshire",
+            "code": "E06000019",
+            "wikidata_id": "Q23129"
+        },
+        "dXJuOm1ieGJuZDpGQlJOOnY0": {
+            "name": "Telford and Wrekin",
+            "code": "E06000020",
+            "wikidata_id": "Q1425298"
+        },
+        "dXJuOm1ieGJuZDpGUlJOOnY0": {
+            "name": "Stoke-on-Trent",
+            "code": "E06000021",
+            "wikidata_id": "Q21891722"
+        },
+        "dXJuOm1ieGJuZDpGaFJOOnY0": {
+            "name": "Bath and North East Somerset",
+            "code": "E06000022",
+            "wikidata_id": "Q810793"
+        },
+        "dXJuOm1ieGJuZDpGeFJOOnY0": {
+            "name": "Bristol",
+            "code": "E06000023",
+            "wikidata_id": "Q23154"
+        },
+        "dXJuOm1ieGJuZDpHQlJOOnY0": {
+            "name": "North Somerset",
+            "code": "E06000024",
+            "wikidata_id": "Q178196"
+        },
+        "dXJuOm1ieGJuZDpHUlJOOnY0": {
+            "name": "South Gloucestershire",
+            "code": "E06000025",
+            "wikidata_id": "Q1369280"
+        },
+        "dXJuOm1ieGJuZDpHaFJOOnY0": {
+            "name": "Plymouth",
+            "code": "E06000026",
+            "wikidata_id": "Q21674890"
+        },
+        "dXJuOm1ieGJuZDpHeFJOOnY0": {
+            "name": "Torbay",
+            "code": "E06000027",
+            "wikidata_id": "Q1136118"
+        },
+        "dXJuOm1ieGJuZDpIaFJOOnY0": {
+            "name": "Swindon",
+            "code": "E06000030",
+            "wikidata_id": "Q894093"
+        },
+        "dXJuOm1ieGJuZDpIeFJOOnY0": {
+            "name": "Peterborough",
+            "code": "E06000031",
+            "wikidata_id": "Q12956645"
+        },
+        "dXJuOm1ieGJuZDpJQlJOOnY0": {
+            "name": "Luton",
+            "code": "E06000032",
+            "wikidata_id": "Q21683239"
+        },
+        "dXJuOm1ieGJuZDpJUlJOOnY0": {
+            "name": "Southend-on-Sea",
+            "code": "E06000033",
+            "wikidata_id": "Q21487155"
+        },
+        "dXJuOm1ieGJuZDpJaFJOOnY0": {
+            "name": "Thurrock",
+            "code": "E06000034",
+            "wikidata_id": "Q1549155"
+        },
+        "dXJuOm1ieGJuZDpJeFJOOnY0": {
+            "name": "Medway",
+            "code": "E06000035",
+            "wikidata_id": "Q797782"
+        },
+        "dXJuOm1ieGJuZDpKQlJOOnY0": {
+            "name": "Bracknell Forest",
+            "code": "E06000036",
+            "wikidata_id": "Q896725"
+        },
+        "dXJuOm1ieGJuZDpKUlJOOnY0": {
+            "name": "West Berkshire",
+            "code": "E06000037",
+            "wikidata_id": "Q1473780"
+        },
+        "dXJuOm1ieGJuZDpKaFJOOnY0": {
+            "name": "Reading",
+            "code": "E06000038",
+            "wikidata_id": "Q21496716"
+        },
+        "dXJuOm1ieGJuZDpKeFJOOnY0": {
+            "name": "Slough",
+            "code": "E06000039",
+            "wikidata_id": "Q21163036"
+        },
+        "dXJuOm1ieGJuZDpLQlJOOnY0": {
+            "name": "Windsor and Maidenhead",
+            "code": "E06000040",
+            "wikidata_id": "Q1368496"
+        },
+        "dXJuOm1ieGJuZDpLUlJOOnY0": {
+            "name": "Wokingham",
+            "code": "E06000041",
+            "wikidata_id": "Q1758432"
+        },
+        "dXJuOm1ieGJuZDpLaFJOOnY0": {
+            "name": "Milton Keynes",
+            "code": "E06000042",
+            "wikidata_id": "Q894090"
+        },
+        "dXJuOm1ieGJuZDpLeFJOOnY0": {
+            "name": "Brighton and Hove",
+            "code": "E06000043",
+            "wikidata_id": "Q1022488"
+        },
+        "dXJuOm1ieGJuZDpMQlJOOnY0": {
+            "name": "Portsmouth",
+            "code": "E06000044",
+            "wikidata_id": "Q21683233"
+        },
+        "dXJuOm1ieGJuZDpMUlJOOnY0": {
+            "name": "Southampton",
+            "code": "E06000045",
+            "wikidata_id": "Q21683230"
+        },
+        "dXJuOm1ieGJuZDpMaFJOOnY0": {
+            "name": "Isle of Wight",
+            "code": "E06000046",
+            "wikidata_id": "Q9679"
+        },
+        "dXJuOm1ieGJuZDpMeFJOOnY0": {
+            "name": "County Durham",
+            "code": "E06000047",
+            "wikidata_id": "Q23082"
+        },
+        "dXJuOm1ieGJuZDpNQlJOOnY0": {
+            "name": "Cheshire East",
+            "code": "E06000049",
+            "wikidata_id": "Q1070590"
+        },
+        "dXJuOm1ieGJuZDpNUlJOOnY0": {
+            "name": "Cheshire West and Chester",
+            "code": "E06000050",
+            "wikidata_id": "Q1070591"
+        },
+        "dXJuOm1ieGJuZDpNaFJOOnY0": {
+            "name": "Shropshire",
+            "code": "E06000051",
+            "wikidata_id": "Q23103"
+        },
+        "dXJuOm1ieGJuZDpNeFJOOnY0": {
+            "name": "Cornwall",
+            "code": "E06000052",
+            "wikidata_id": "Q23148"
+        },
+        "dXJuOm1ieGJuZDpOQlJOOnY0": {
+            "name": "Isles of Scilly",
+            "code": "E06000053",
+            "wikidata_id": "Q180209"
+        },
+        "dXJuOm1ieGJuZDpOUlJOOnY0": {
+            "name": "Wiltshire",
+            "code": "E06000054",
+            "wikidata_id": "Q23183"
+        },
+        "dXJuOm1ieGJuZDpOaFJOOnY0": {
+            "name": "Bedford",
+            "code": "E06000055",
+            "wikidata_id": "Q894077"
+        },
+        "dXJuOm1ieGJuZDpOeFJOOnY0": {
+            "name": "Central Bedfordshire",
+            "code": "E06000056",
+            "wikidata_id": "Q1053723"
+        },
+        "dXJuOm1ieGJuZDpPQlJOOnY0": {
+            "name": "Northumberland",
+            "code": "E06000057",
+            "wikidata_id": "Q23079"
+        },
+        "dXJuOm1ieGJuZDpIQlJOOnY0": {
+            "name": "Bournemouth, Christchurch and Poole",
+            "code": "E06000058",
+            "wikidata_id": "Q54366459"
+        },
+        "dXJuOm1ieGJuZDpQeFJOOnY0": {
+            "name": "Dorset",
+            "code": "E06000059",
+            "wikidata_id": "Q23159"
+        },
+        "dXJuOm1ieGJuZDpPaFJOOnY0": {
+            "name": "Buckinghamshire",
+            "code": "E06000060",
+            "wikidata_id": "Q21694636"
+        },
+        "dXJuOm1ieGJuZDpuQlJOOnY0": {
+            "name": "North Northamptonshire",
+            "code": "E06000061",
+            "wikidata_id": "Q60790121"
+        },
+        "dXJuOm1ieGJuZDpTaFJOOnY0": {
+            "name": "West Northamptonshire",
+            "code": "E06000062",
+            "wikidata_id": "Q60790129"
+        },
+        "dXJuOm1ieGJuZDpPeFJOOnY0": {
+            "name": "Cambridgeshire",
+            "code": "E10000003",
+            "wikidata_id": "Q23112"
+        },
+        "dXJuOm1ieGJuZDpQQlJOOnY0": {
+            "name": "Cumbria",
+            "code": "E10000006",
+            "wikidata_id": "Q23066"
+        },
+        "dXJuOm1ieGJuZDpQUlJOOnY0": {
+            "name": "Derbyshire",
+            "code": "E10000007",
+            "wikidata_id": "Q23098"
+        },
+        "dXJuOm1ieGJuZDpQaFJOOnY0": {
+            "name": "Devon",
+            "code": "E10000008",
+            "wikidata_id": "Q23156"
+        },
+        "dXJuOm1ieGJuZDpRQlJOOnY0": {
+            "name": "East Sussex",
+            "code": "E10000011",
+            "wikidata_id": "Q23293"
+        },
+        "dXJuOm1ieGJuZDpRUlJOOnY0": {
+            "name": "Essex",
+            "code": "E10000012",
+            "wikidata_id": "Q23240"
+        },
+        "dXJuOm1ieGJuZDpRaFJOOnY0": {
+            "name": "Gloucestershire",
+            "code": "E10000013",
+            "wikidata_id": "Q23165"
+        },
+        "dXJuOm1ieGJuZDpReFJOOnY0": {
+            "name": "Hampshire",
+            "code": "E10000014",
+            "wikidata_id": "Q23204"
+        },
+        "dXJuOm1ieGJuZDpSQlJOOnY0": {
+            "name": "Hertfordshire",
+            "code": "E10000015",
+            "wikidata_id": "Q3410"
+        },
+        "dXJuOm1ieGJuZDpSUlJOOnY0": {
+            "name": "Kent",
+            "code": "E10000016",
+            "wikidata_id": "Q23298"
+        },
+        "dXJuOm1ieGJuZDpSaFJOOnY0": {
+            "name": "Lancashire",
+            "code": "E10000017",
+            "wikidata_id": "Q23077"
+        },
+        "dXJuOm1ieGJuZDpSeFJOOnY0": {
+            "name": "Leicestershire",
+            "code": "E10000018",
+            "wikidata_id": "Q23106"
+        },
+        "dXJuOm1ieGJuZDpTQlJOOnY0": {
+            "name": "Lincolnshire",
+            "code": "E10000019",
+            "wikidata_id": "Q23090"
+        },
+        "dXJuOm1ieGJuZDpTUlJOOnY0": {
+            "name": "Norfolk",
+            "code": "E10000020",
+            "wikidata_id": "Q23109"
+        },
+        "dXJuOm1ieGJuZDpTeFJOOnY0": {
+            "name": "North Yorkshire",
+            "code": "E10000023",
+            "wikidata_id": "Q23086"
+        },
+        "dXJuOm1ieGJuZDpUQlJOOnY0": {
+            "name": "Nottinghamshire",
+            "code": "E10000024",
+            "wikidata_id": "Q23092"
+        },
+        "dXJuOm1ieGJuZDpUUlJOOnY0": {
+            "name": "Oxfordshire",
+            "code": "E10000025",
+            "wikidata_id": "Q23169"
+        },
+        "dXJuOm1ieGJuZDpUaFJOOnY0": {
+            "name": "Somerset",
+            "code": "E10000027",
+            "wikidata_id": "Q21694741"
+        },
+        "dXJuOm1ieGJuZDpUeFJOOnY0": {
+            "name": "Staffordshire",
+            "code": "E10000028",
+            "wikidata_id": "Q23105"
+        },
+        "dXJuOm1ieGJuZDpVQlJOOnY0": {
+            "name": "Suffolk",
+            "code": "E10000029",
+            "wikidata_id": "Q23111"
+        },
+        "dXJuOm1ieGJuZDpVUlJOOnY0": {
+            "name": "Surrey",
+            "code": "E10000030",
+            "wikidata_id": "Q23276"
+        },
+        "dXJuOm1ieGJuZDpVaFJOOnY0": {
+            "name": "Warwickshire",
+            "code": "E10000031",
+            "wikidata_id": "Q23140"
+        },
+        "dXJuOm1ieGJuZDpVeFJOOnY0": {
+            "name": "West Sussex",
+            "code": "E10000032",
+            "wikidata_id": "Q23287"
+        },
+        "dXJuOm1ieGJuZDpWQlJOOnY0": {
+            "name": "Worcestershire",
+            "code": "E10000034",
+            "wikidata_id": "Q23135"
+        },
+        "dXJuOm1ieGJuZDpWUlJOOnY0": {
+            "name": "Greater Manchester",
+            "code": "E11000001",
+            "wikidata_id": "Q23099"
+        },
+        "dXJuOm1ieGJuZDpWaFJOOnY0": {
+            "name": "Merseyside",
+            "code": "E11000002",
+            "wikidata_id": "Q23100"
+        },
+        "dXJuOm1ieGJuZDpWeFJOOnY0": {
+            "name": "South Yorkshire",
+            "code": "E11000003",
+            "wikidata_id": "Q23095"
+        },
+        "dXJuOm1ieGJuZDpXQlJOOnY0": {
+            "name": "West Midlands",
+            "code": "E11000005",
+            "wikidata_id": "Q23124"
+        },
+        "dXJuOm1ieGJuZDpXUlJOOnY0": {
+            "name": "West Yorkshire",
+            "code": "E11000006",
+            "wikidata_id": "Q23083"
+        },
+        "dXJuOm1ieGJuZDpXaFJOOnY0": {
+            "name": "Tyne and Wear",
+            "code": "E11000007",
+            "wikidata_id": "Q23080"
+        },
+        "dXJuOm1ieGJuZDpPUlJOOnY0": {
+            "name": "Greater London",
+            "code": "E12000007",
+            "wikidata_id": "Q23306"
+        },
+        "dXJuOm1ieGJuZDpXeFJOOnY0": {
+            "name": "Antrim and Newtownabbey",
+            "code": "N09000001",
+            "wikidata_id": "Q4777347"
+        },
+        "dXJuOm1ieGJuZDpYQlJOOnY0": {
+            "name": "Armagh City, Banbridge and Craigavon",
+            "code": "N09000002",
+            "wikidata_id": "Q4792580"
+        },
+        "dXJuOm1ieGJuZDpYUlJOOnY0": {
+            "name": "Belfast",
+            "code": "N09000003",
+            "wikidata_id": "Q10686"
+        },
+        "dXJuOm1ieGJuZDpYaFJOOnY0": {
+            "name": "Causeway Coast and Glens",
+            "code": "N09000004",
+            "wikidata_id": "Q5054638"
+        },
+        "dXJuOm1ieGJuZDpYeFJOOnY0": {
+            "name": "Derry City and Strabane",
+            "code": "N09000005",
+            "wikidata_id": "Q15213714"
+        },
+        "dXJuOm1ieGJuZDpZQlJOOnY0": {
+            "name": "Fermanagh and Omagh",
+            "code": "N09000006",
+            "wikidata_id": "Q5444365"
+        },
+        "dXJuOm1ieGJuZDpZUlJOOnY0": {
+            "name": "Lisburn and Castlereagh",
+            "code": "N09000007",
+            "wikidata_id": "Q6558667"
+        },
+        "dXJuOm1ieGJuZDpZaFJOOnY0": {
+            "name": "Mid and East Antrim",
+            "code": "N09000008",
+            "wikidata_id": "Q6841059"
+        },
+        "dXJuOm1ieGJuZDpZeFJOOnY0": {
+            "name": "Mid Ulster",
+            "code": "N09000009",
+            "wikidata_id": "Q6840825"
+        },
+        "dXJuOm1ieGJuZDpaQlJOOnY0": {
+            "name": "Newry, Mourne and Down",
+            "code": "N09000010",
+            "wikidata_id": "Q15262186"
+        },
+        "dXJuOm1ieGJuZDpaUlJOOnY0": {
+            "name": "Ards and North Down",
+            "code": "N09000011",
+            "wikidata_id": "Q7055155"
+        },
+        "dXJuOm1ieGJuZDpaaFJOOnY0": {
+            "name": "Clackmannanshire",
+            "code": "S12000005",
+            "wikidata_id": "Q207268"
+        },
+        "dXJuOm1ieGJuZDpaeFJOOnY0": {
+            "name": "Dumfries and Galloway",
+            "code": "S12000006",
+            "wikidata_id": "Q126514"
+        },
+        "dXJuOm1ieGJuZDphQlJOOnY0": {
+            "name": "East Ayrshire",
+            "code": "S12000008",
+            "wikidata_id": "Q209135"
+        },
+        "dXJuOm1ieGJuZDphUlJOOnY0": {
+            "name": "East Lothian",
+            "code": "S12000010",
+            "wikidata_id": "Q207257"
+        },
+        "dXJuOm1ieGJuZDphaFJOOnY0": {
+            "name": "East Renfrewshire",
+            "code": "S12000011",
+            "wikidata_id": "Q211925"
+        },
+        "dXJuOm1ieGJuZDpheFJOOnY0": {
+            "name": "Na h-Eileanan Siar",
+            "code": "S12000013",
+            "wikidata_id": "Q80967"
+        },
+        "dXJuOm1ieGJuZDpiQlJOOnY0": {
+            "name": "Falkirk",
+            "code": "S12000014",
+            "wikidata_id": "Q216802"
+        },
+        "dXJuOm1ieGJuZDpiaFJOOnY0": {
+            "name": "Highland",
+            "code": "S12000017",
+            "wikidata_id": "Q208279"
+        },
+        "dXJuOm1ieGJuZDpieFJOOnY0": {
+            "name": "Inverclyde",
+            "code": "S12000018",
+            "wikidata_id": "Q208271"
+        },
+        "dXJuOm1ieGJuZDpjQlJOOnY0": {
+            "name": "Midlothian",
+            "code": "S12000019",
+            "wikidata_id": "Q206934"
+        },
+        "dXJuOm1ieGJuZDpjUlJOOnY0": {
+            "name": "Moray",
+            "code": "S12000020",
+            "wikidata_id": "Q211106"
+        },
+        "dXJuOm1ieGJuZDpjaFJOOnY0": {
+            "name": "North Ayrshire",
+            "code": "S12000021",
+            "wikidata_id": "Q206926"
+        },
+        "dXJuOm1ieGJuZDpjeFJOOnY0": {
+            "name": "Orkney Islands",
+            "code": "S12000023",
+            "wikidata_id": "Q100166"
+        },
+        "dXJuOm1ieGJuZDpkUlJOOnY0": {
+            "name": "Scottish Borders",
+            "code": "S12000026",
+            "wikidata_id": "Q211113"
+        },
+        "dXJuOm1ieGJuZDpkaFJOOnY0": {
+            "name": "Shetland Islands",
+            "code": "S12000027",
+            "wikidata_id": "Q47134"
+        },
+        "dXJuOm1ieGJuZDpkeFJOOnY0": {
+            "name": "South Ayrshire",
+            "code": "S12000028",
+            "wikidata_id": "Q209131"
+        },
+        "dXJuOm1ieGJuZDplQlJOOnY0": {
+            "name": "South Lanarkshire",
+            "code": "S12000029",
+            "wikidata_id": "Q209142"
+        },
+        "dXJuOm1ieGJuZDplUlJOOnY0": {
+            "name": "Stirling",
+            "code": "S12000030",
+            "wikidata_id": "Q217838"
+        },
+        "dXJuOm1ieGJuZDplaFJOOnY0": {
+            "name": "Aberdeen City",
+            "code": "S12000033",
+            "wikidata_id": "Q36405"
+        },
+        "dXJuOm1ieGJuZDpleFJOOnY0": {
+            "name": "Aberdeenshire",
+            "code": "S12000034",
+            "wikidata_id": "Q189912"
+        },
+        "dXJuOm1ieGJuZDpmQlJOOnY0": {
+            "name": "Argyll and Bute",
+            "code": "S12000035",
+            "wikidata_id": "Q202174"
+        },
+        "dXJuOm1ieGJuZDpmUlJOOnY0": {
+            "name": "City of Edinburgh",
+            "code": "S12000036",
+            "wikidata_id": "Q23436"
+        },
+        "dXJuOm1ieGJuZDpmaFJOOnY0": {
+            "name": "Renfrewshire",
+            "code": "S12000038",
+            "wikidata_id": "Q211091"
+        },
+        "dXJuOm1ieGJuZDpmeFJOOnY0": {
+            "name": "West Dunbartonshire",
+            "code": "S12000039",
+            "wikidata_id": "Q208121"
+        },
+        "dXJuOm1ieGJuZDpnQlJOOnY0": {
+            "name": "West Lothian",
+            "code": "S12000040",
+            "wikidata_id": "Q204940"
+        },
+        "dXJuOm1ieGJuZDpnUlJOOnY0": {
+            "name": "Angus",
+            "code": "S12000041",
+            "wikidata_id": "Q202177"
+        },
+        "dXJuOm1ieGJuZDpnaFJOOnY0": {
+            "name": "Dundee City",
+            "code": "S12000042",
+            "wikidata_id": "Q2357511"
+        },
+        "dXJuOm1ieGJuZDpoQlJOOnY0": {
+            "name": "East Dunbartonshire",
+            "code": "S12000045",
+            "wikidata_id": "Q211889"
+        },
+        "dXJuOm1ieGJuZDpiUlJOOnY0": {
+            "name": "Fife",
+            "code": "S12000047",
+            "wikidata_id": "Q201149"
+        },
+        "dXJuOm1ieGJuZDpkQlJOOnY0": {
+            "name": "Perth and Kinross",
+            "code": "S12000048",
+            "wikidata_id": "Q207679"
+        },
+        "dXJuOm1ieGJuZDpoUlJOOnY0": {
+            "name": "Glasgow City",
+            "code": "S12000049",
+            "wikidata_id": "Q4093"
+        },
+        "dXJuOm1ieGJuZDpneFJOOnY0": {
+            "name": "North Lanarkshire",
+            "code": "S12000050",
+            "wikidata_id": "Q207111"
+        },
+        "dXJuOm1ieGJuZDpoaFJOOnY0": {
+            "name": "Isle of Anglesey",
+            "code": "W06000001",
+            "wikidata_id": "Q168159"
+        },
+        "dXJuOm1ieGJuZDpoeFJOOnY0": {
+            "name": "Gwynedd",
+            "code": "W06000002",
+            "wikidata_id": "Q109128"
+        },
+        "dXJuOm1ieGJuZDppQlJOOnY0": {
+            "name": "Conwy",
+            "code": "W06000003",
+            "wikidata_id": "Q817971"
+        },
+        "dXJuOm1ieGJuZDppUlJOOnY0": {
+            "name": "Denbighshire",
+            "code": "W06000004",
+            "wikidata_id": "Q650682"
+        },
+        "dXJuOm1ieGJuZDppaFJOOnY0": {
+            "name": "Flintshire",
+            "code": "W06000005",
+            "wikidata_id": "Q505610"
+        },
+        "dXJuOm1ieGJuZDppeFJOOnY0": {
+            "name": "Wrexham",
+            "code": "W06000006",
+            "wikidata_id": "Q843868"
+        },
+        "dXJuOm1ieGJuZDpqQlJOOnY0": {
+            "name": "Ceredigion",
+            "code": "W06000008",
+            "wikidata_id": "Q217829"
+        },
+        "dXJuOm1ieGJuZDpqUlJOOnY0": {
+            "name": "Pembrokeshire",
+            "code": "W06000009",
+            "wikidata_id": "Q213361"
+        },
+        "dXJuOm1ieGJuZDpqaFJOOnY0": {
+            "name": "Carmarthenshire",
+            "code": "W06000010",
+            "wikidata_id": "Q217840"
+        },
+        "dXJuOm1ieGJuZDpqeFJOOnY0": {
+            "name": "Swansea",
+            "code": "W06000011",
+            "wikidata_id": "Q10996863"
+        },
+        "dXJuOm1ieGJuZDprQlJOOnY0": {
+            "name": "Neath Port Talbot",
+            "code": "W06000012",
+            "wikidata_id": "Q748078"
+        },
+        "dXJuOm1ieGJuZDprUlJOOnY0": {
+            "name": "Bridgend",
+            "code": "W06000013",
+            "wikidata_id": "Q697126"
+        },
+        "dXJuOm1ieGJuZDpraFJOOnY0": {
+            "name": "Vale of Glamorgan",
+            "code": "W06000014",
+            "wikidata_id": "Q844784"
+        },
+        "dXJuOm1ieGJuZDpreFJOOnY0": {
+            "name": "Cardiff",
+            "code": "W06000015",
+            "wikidata_id": "Q24342199"
+        },
+        "dXJuOm1ieGJuZDpsQlJOOnY0": {
+            "name": "Rhondda Cynon Taf",
+            "code": "W06000016",
+            "wikidata_id": "Q817960"
+        },
+        "dXJuOm1ieGJuZDpsUlJOOnY0": {
+            "name": "Caerphilly",
+            "code": "W06000018",
+            "wikidata_id": "Q748065"
+        },
+        "dXJuOm1ieGJuZDpsaFJOOnY0": {
+            "name": "Blaenau Gwent",
+            "code": "W06000019",
+            "wikidata_id": "Q596885"
+        },
+        "dXJuOm1ieGJuZDpseFJOOnY0": {
+            "name": "Torfaen",
+            "code": "W06000020",
+            "wikidata_id": "Q643919"
+        },
+        "dXJuOm1ieGJuZDptQlJOOnY0": {
+            "name": "Monmouthshire",
+            "code": "W06000021",
+            "wikidata_id": "Q207176"
+        },
+        "dXJuOm1ieGJuZDptUlJOOnY0": {
+            "name": "Newport",
+            "code": "W06000022",
+            "wikidata_id": "Q11294004"
+        },
+        "dXJuOm1ieGJuZDptaFJOOnY0": {
+            "name": "Powys",
+            "code": "W06000023",
+            "wikidata_id": "Q156150"
+        },
+        "dXJuOm1ieGJuZDpteFJOOnY0": {
+            "name": "Merthyr Tydfil",
+            "code": "W06000024",
+            "wikidata_id": "Q3306663"
+        }
+    }
+}

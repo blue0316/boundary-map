@@ -1,0 +1,2 @@
+mapbox premium access token
+pk.eyJ1Ijoid2VhdGhlciIsImEiOiJjamxncnYwMmYxYXgxM3BzNWEyNHUzbmhhIn0.UqrZwn6qTa6WJwdHjPVUfA

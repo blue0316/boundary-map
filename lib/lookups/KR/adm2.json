@@ -1,0 +1,1448 @@
+{
+    "polyTilesetName": "mapbox.boundaries-adm2-v4",
+    "pointLayerName": "points_admin_2",
+    "polyLayerName": "boundaries_admin_2",
+    "description": "county",
+    "all": {
+        "dXJuOm1ieGJuZDpBUlI2OnY0": {
+            "name": "종로구",
+            "code": "11110",
+            "name_en": "Jongno-gu",
+            "wikidata_id": "Q36929"
+        },
+        "dXJuOm1ieGJuZDpBaFI2OnY0": {
+            "name": "중구",
+            "code": "11140",
+            "name_en": "Jung-gu",
+            "wikidata_id": "Q50441"
+        },
+        "dXJuOm1ieGJuZDpBeFI2OnY0": {
+            "name": "용산구",
+            "code": "11170",
+            "name_en": "Yongsan-gu",
+            "wikidata_id": "Q50429"
+        },
+        "dXJuOm1ieGJuZDpCQlI2OnY0": {
+            "name": "성동구",
+            "code": "11200",
+            "name_en": "Seongdong-gu",
+            "wikidata_id": "Q50411"
+        },
+        "dXJuOm1ieGJuZDpCUlI2OnY0": {
+            "name": "광진구",
+            "code": "11215",
+            "name_en": "Gwangjin-gu",
+            "wikidata_id": "Q50355"
+        },
+        "dXJuOm1ieGJuZDpCaFI2OnY0": {
+            "name": "동대문구",
+            "code": "11230",
+            "name_en": "Dongdaemun-gu",
+            "wikidata_id": "Q50382"
+        },
+        "dXJuOm1ieGJuZDpCeFI2OnY0": {
+            "name": "중랑구",
+            "code": "11260",
+            "name_en": "Jungnang-gu",
+            "wikidata_id": "Q50444"
+        },
+        "dXJuOm1ieGJuZDpDQlI2OnY0": {
+            "name": "성북구",
+            "code": "11290",
+            "name_en": "Seongbuk-gu",
+            "wikidata_id": "Q50412"
+        },
+        "dXJuOm1ieGJuZDpDUlI2OnY0": {
+            "name": "강북구",
+            "code": "11305",
+            "name_en": "Gangbuk-gu",
+            "wikidata_id": "Q50349"
+        },
+        "dXJuOm1ieGJuZDpDaFI2OnY0": {
+            "name": "도봉구",
+            "code": "11320",
+            "name_en": "Dobong-gu",
+            "wikidata_id": "Q50374"
+        },
+        "dXJuOm1ieGJuZDpDeFI2OnY0": {
+            "name": "노원구",
+            "code": "11350",
+            "name_en": "Nowon-gu",
+            "wikidata_id": "Q50368"
+        },
+        "dXJuOm1ieGJuZDpEQlI2OnY0": {
+            "name": "은평구",
+            "code": "11380",
+            "name_en": "Eunpyeong-gu",
+            "wikidata_id": "Q50432"
+        },
+        "dXJuOm1ieGJuZDpEUlI2OnY0": {
+            "name": "서대문구",
+            "code": "11410",
+            "name_en": "Seodaemun-gu",
+            "wikidata_id": "Q50408"
+        },
+        "dXJuOm1ieGJuZDpEaFI2OnY0": {
+            "name": "마포구",
+            "code": "11440",
+            "name_en": "Mapo-gu",
+            "wikidata_id": "Q50388"
+        },
+        "dXJuOm1ieGJuZDpEeFI2OnY0": {
+            "name": "양천구",
+            "code": "11470",
+            "name_en": "Yangcheon-gu",
+            "wikidata_id": "Q50420"
+        },
+        "dXJuOm1ieGJuZDpFQlI2OnY0": {
+            "name": "강서구",
+            "code": "11500",
+            "name_en": "Gangseo-gu",
+            "wikidata_id": "Q50192"
+        },
+        "dXJuOm1ieGJuZDpFUlI2OnY0": {
+            "name": "구로구",
+            "code": "11530",
+            "name_en": "Guro-gu",
+            "wikidata_id": "Q50356"
+        },
+        "dXJuOm1ieGJuZDpFaFI2OnY0": {
+            "name": "금천구",
+            "code": "11545",
+            "name_en": "Geumcheon-gu",
+            "wikidata_id": "Q50359"
+        },
+        "dXJuOm1ieGJuZDpFeFI2OnY0": {
+            "name": "영등포구",
+            "code": "11560",
+            "name_en": "Yeongdeungpo-gu",
+            "wikidata_id": "Q50190"
+        },
+        "dXJuOm1ieGJuZDpGQlI2OnY0": {
+            "name": "동작구",
+            "code": "11590",
+            "name_en": "Dongjak-gu",
+            "wikidata_id": "Q50385"
+        },
+        "dXJuOm1ieGJuZDpGUlI2OnY0": {
+            "name": "관악구",
+            "code": "11620",
+            "name_en": "Gwanak-gu",
+            "wikidata_id": "Q50353"
+        },
+        "dXJuOm1ieGJuZDpGaFI2OnY0": {
+            "name": "서초구",
+            "code": "11650",
+            "name_en": "Seocho-gu",
+            "wikidata_id": "Q20395"
+        },
+        "dXJuOm1ieGJuZDpGeFI2OnY0": {
+            "name": "강남구",
+            "code": "11680",
+            "name_en": "Gangnam-gu",
+            "wikidata_id": "Q20398"
+        },
+        "dXJuOm1ieGJuZDpHQlI2OnY0": {
+            "name": "송파구",
+            "code": "11710",
+            "name_en": "Songpa-gu",
+            "wikidata_id": "Q50415"
+        },
+        "dXJuOm1ieGJuZDpHUlI2OnY0": {
+            "name": "강동구",
+            "code": "11740",
+            "name_en": "Gangdong-gu",
+            "wikidata_id": "Q50348"
+        },
+        "dXJuOm1ieGJuZDpHaFI2OnY0": {
+            "name": "중구",
+            "code": "26110",
+            "name_en": "Jung-gu",
+            "wikidata_id": "Q50440"
+        },
+        "dXJuOm1ieGJuZDpHeFI2OnY0": {
+            "name": "서구",
+            "code": "26140",
+            "name_en": "Seo-gu",
+            "wikidata_id": "Q50406"
+        },
+        "dXJuOm1ieGJuZDpIQlI2OnY0": {
+            "name": "동구",
+            "code": "26170",
+            "name_en": "Dong-gu",
+            "wikidata_id": "Q50378"
+        },
+        "dXJuOm1ieGJuZDpIUlI2OnY0": {
+            "name": "영도구",
+            "code": "26200",
+            "name_en": "Yeongdo-gu",
+            "wikidata_id": "Q50423"
+        },
+        "dXJuOm1ieGJuZDpIaFI2OnY0": {
+            "name": "부산진구",
+            "code": "26230",
+            "name_en": "Busanjin-gu",
+            "wikidata_id": "Q50390"
+        },
+        "dXJuOm1ieGJuZDpIeFI2OnY0": {
+            "name": "동래구",
+            "code": "26260",
+            "name_en": "Dongnae-gu",
+            "wikidata_id": "Q50383"
+        },
+        "dXJuOm1ieGJuZDpJQlI2OnY0": {
+            "name": "남구",
+            "code": "26290",
+            "name_en": "Nam-gu",
+            "wikidata_id": "Q50363"
+        },
+        "dXJuOm1ieGJuZDpJUlI2OnY0": {
+            "name": "북구",
+            "code": "26320",
+            "name_en": "Buk-gu",
+            "wikidata_id": "Q50394"
+        },
+        "dXJuOm1ieGJuZDpJaFI2OnY0": {
+            "name": "해운대구",
+            "code": "26350",
+            "name_en": "Haeundae-gu",
+            "wikidata_id": "Q50449"
+        },
+        "dXJuOm1ieGJuZDpJeFI2OnY0": {
+            "name": "사하구",
+            "code": "26380",
+            "name_en": "Saha-gu",
+            "wikidata_id": "Q50400"
+        },
+        "dXJuOm1ieGJuZDpKQlI2OnY0": {
+            "name": "금정구",
+            "code": "26410",
+            "name_en": "Geumjeong-gu",
+            "wikidata_id": "Q50358"
+        },
+        "dXJuOm1ieGJuZDpKUlI2OnY0": {
+            "name": "강서구",
+            "code": "26440",
+            "name_en": "Gangseo-gu",
+            "wikidata_id": "Q50191"
+        },
+        "dXJuOm1ieGJuZDpKaFI2OnY0": {
+            "name": "연제구",
+            "code": "26470",
+            "name_en": "Yeonje-gu",
+            "wikidata_id": "Q50422"
+        },
+        "dXJuOm1ieGJuZDpKeFI2OnY0": {
+            "name": "수영구",
+            "code": "26500",
+            "name_en": "Suyeong-gu",
+            "wikidata_id": "Q50417"
+        },
+        "dXJuOm1ieGJuZDpLQlI2OnY0": {
+            "name": "사상구",
+            "code": "26530",
+            "name_en": "Sasang-gu",
+            "wikidata_id": "Q50398"
+        },
+        "dXJuOm1ieGJuZDpLUlI2OnY0": {
+            "name": "기장군",
+            "code": "26710",
+            "name_en": "Gijang-gun",
+            "wikidata_id": "Q50217"
+        },
+        "dXJuOm1ieGJuZDpLaFI2OnY0": {
+            "name": "중구",
+            "code": "27110",
+            "name_en": "Jung-gu",
+            "wikidata_id": "Q50438"
+        },
+        "dXJuOm1ieGJuZDpLeFI2OnY0": {
+            "name": "동구",
+            "code": "27140",
+            "name_en": "Dong-gu",
+            "wikidata_id": "Q50376"
+        },
+        "dXJuOm1ieGJuZDpMQlI2OnY0": {
+            "name": "서구",
+            "code": "27170",
+            "name_en": "Seo-gu",
+            "wikidata_id": "Q50404"
+        },
+        "dXJuOm1ieGJuZDpMUlI2OnY0": {
+            "name": "남구",
+            "code": "27200",
+            "name_en": "Nam-gu",
+            "wikidata_id": "Q50362"
+        },
+        "dXJuOm1ieGJuZDpMaFI2OnY0": {
+            "name": "북구",
+            "code": "27230",
+            "name_en": "Buk-gu",
+            "wikidata_id": "Q50393"
+        },
+        "dXJuOm1ieGJuZDpMeFI2OnY0": {
+            "name": "수성구",
+            "code": "27260",
+            "name_en": "Suseong-gu",
+            "wikidata_id": "Q50416"
+        },
+        "dXJuOm1ieGJuZDpNQlI2OnY0": {
+            "name": "달서구",
+            "code": "27290",
+            "name_en": "Dalseo-gu",
+            "wikidata_id": "Q50370"
+        },
+        "dXJuOm1ieGJuZDpNUlI2OnY0": {
+            "name": "달성군",
+            "code": "27710",
+            "name_en": "Dalseong-gun",
+            "wikidata_id": "Q50239"
+        },
+        "dXJuOm1ieGJuZDpNaFI2OnY0": {
+            "name": "중구",
+            "code": "28110",
+            "name_en": "Jung-gu",
+            "wikidata_id": "Q50443"
+        },
+        "dXJuOm1ieGJuZDpNeFI2OnY0": {
+            "name": "동구",
+            "code": "28140",
+            "name_en": "Dong-gu",
+            "wikidata_id": "Q50380"
+        },
+        "dXJuOm1ieGJuZDpOQlI2OnY0": {
+            "name": "미추홀구",
+            "code": "28170",
+            "name_en": "Michuhol-gu",
+            "wikidata_id": "Q50365"
+        },
+        "dXJuOm1ieGJuZDpOUlI2OnY0": {
+            "name": "연수구",
+            "code": "28185",
+            "name_en": "Yeonsu-gu",
+            "wikidata_id": "Q50421"
+        },
+        "dXJuOm1ieGJuZDpOaFI2OnY0": {
+            "name": "남동구",
+            "code": "28200",
+            "name_en": "Namdong-gu",
+            "wikidata_id": "Q50367"
+        },
+        "dXJuOm1ieGJuZDpOeFI2OnY0": {
+            "name": "부평구",
+            "code": "28237",
+            "name_en": "Bupyeong-gu",
+            "wikidata_id": "Q50391"
+        },
+        "dXJuOm1ieGJuZDpPQlI2OnY0": {
+            "name": "계양구",
+            "code": "28245",
+            "name_en": "Gyeyang-gu",
+            "wikidata_id": "Q50352"
+        },
+        "dXJuOm1ieGJuZDpPUlI2OnY0": {
+            "name": "서구",
+            "code": "28260",
+            "name_en": "Seo-gu",
+            "wikidata_id": "Q50407"
+        },
+        "dXJuOm1ieGJuZDpPaFI2OnY0": {
+            "name": "강화군",
+            "code": "28710",
+            "name_en": "Ganghwa-gun",
+            "wikidata_id": "Q50205"
+        },
+        "dXJuOm1ieGJuZDpPeFI2OnY0": {
+            "name": "옹진군",
+            "code": "28720",
+            "name_en": "Ongjin-gun",
+            "wikidata_id": "Q50310"
+        },
+        "dXJuOm1ieGJuZDpQQlI2OnY0": {
+            "name": "동구",
+            "code": "29110",
+            "name_en": "Dong-gu",
+            "wikidata_id": "Q50375"
+        },
+        "dXJuOm1ieGJuZDpQUlI2OnY0": {
+            "name": "서구",
+            "code": "29140",
+            "name_en": "Seo-gu",
+            "wikidata_id": "Q50403"
+        },
+        "dXJuOm1ieGJuZDpQaFI2OnY0": {
+            "name": "남구",
+            "code": "29155",
+            "name_en": "Nam-gu",
+            "wikidata_id": "Q50361"
+        },
+        "dXJuOm1ieGJuZDpQeFI2OnY0": {
+            "name": "북구",
+            "code": "29170",
+            "name_en": "Buk-gu",
+            "wikidata_id": "Q50392"
+        },
+        "dXJuOm1ieGJuZDpRQlI2OnY0": {
+            "name": "광산구",
+            "code": "29200",
+            "name_en": "Gwangsan-gu",
+            "wikidata_id": "Q50354"
+        },
+        "dXJuOm1ieGJuZDpRUlI2OnY0": {
+            "name": "동구",
+            "code": "30110",
+            "name_en": "Dong-gu",
+            "wikidata_id": "Q50377"
+        },
+        "dXJuOm1ieGJuZDpRaFI2OnY0": {
+            "name": "중구",
+            "code": "30140",
+            "name_en": "Jung-gu",
+            "wikidata_id": "Q50439"
+        },
+        "dXJuOm1ieGJuZDpReFI2OnY0": {
+            "name": "서구",
+            "code": "30170",
+            "name_en": "Seo-gu",
+            "wikidata_id": "Q50405"
+        },
+        "dXJuOm1ieGJuZDpSQlI2OnY0": {
+            "name": "유성구",
+            "code": "30200",
+            "name_en": "Yuseong-gu",
+            "wikidata_id": "Q50431"
+        },
+        "dXJuOm1ieGJuZDpSUlI2OnY0": {
+            "name": "대덕구",
+            "code": "30230",
+            "name_en": "Daedeok-gu",
+            "wikidata_id": "Q50371"
+        },
+        "dXJuOm1ieGJuZDpSaFI2OnY0": {
+            "name": "중구",
+            "code": "31110",
+            "name_en": "Jung-gu",
+            "wikidata_id": "Q50442"
+        },
+        "dXJuOm1ieGJuZDpSeFI2OnY0": {
+            "name": "남구",
+            "code": "31140",
+            "name_en": "Nam-gu",
+            "wikidata_id": "Q50364"
+        },
+        "dXJuOm1ieGJuZDpTQlI2OnY0": {
+            "name": "동구",
+            "code": "31170",
+            "name_en": "Dong-gu",
+            "wikidata_id": "Q50379"
+        },
+        "dXJuOm1ieGJuZDpTUlI2OnY0": {
+            "name": "북구",
+            "code": "31200",
+            "name_en": "Buk-gu",
+            "wikidata_id": "Q50395"
+        },
+        "dXJuOm1ieGJuZDpTaFI2OnY0": {
+            "name": "울주군",
+            "code": "31710",
+            "name_en": "Ulju-gun",
+            "wikidata_id": "Q50313"
+        },
+        "dXJuOm1ieGJuZDpTeFI2OnY0": {
+            "name": "세종특별자치시",
+            "code": "36110",
+            "name_en": "Sejong-si",
+            "wikidata_id": "Q20929"
+        },
+        "dXJuOm1ieGJuZDpBUUVVZWc6djQ": {
+            "name": "수원시",
+            "code": "41110",
+            "name_en": "Suwon-si",
+            "wikidata_id": "Q20714"
+        },
+        "dXJuOm1ieGJuZDoreFI2OnY0": {
+            "name": "성남시",
+            "code": "41130",
+            "name_en": "Seongnam-si",
+            "wikidata_id": "Q42108"
+        },
+        "dXJuOm1ieGJuZDpVeFI2OnY0": {
+            "name": "의정부시",
+            "code": "41150",
+            "name_en": "Uijeongbu-si",
+            "wikidata_id": "Q42135"
+        },
+        "dXJuOm1ieGJuZDovQlI2OnY0": {
+            "name": "안양시",
+            "code": "41170",
+            "name_en": "Anyang-si",
+            "wikidata_id": "Q42120"
+        },
+        "dXJuOm1ieGJuZDpWaFI2OnY0": {
+            "name": "부천시",
+            "code": "41195",
+            "name_en": "Bucheon-si",
+            "wikidata_id": "Q50430"
+        },
+        "dXJuOm1ieGJuZDpWeFI2OnY0": {
+            "name": "광명시",
+            "code": "41210",
+            "name_en": "Gwangmyeong-si",
+            "wikidata_id": "Q42066"
+        },
+        "dXJuOm1ieGJuZDpXQlI2OnY0": {
+            "name": "평택시",
+            "code": "41220",
+            "name_en": "Pyeongtaek-si",
+            "wikidata_id": "Q42154"
+        },
+        "dXJuOm1ieGJuZDpXUlI2OnY0": {
+            "name": "동두천시",
+            "code": "41250",
+            "name_en": "Dongducheon-si",
+            "wikidata_id": "Q42092"
+        },
+        "dXJuOm1ieGJuZDpBUUlVZWc6djQ": {
+            "name": "안산시",
+            "code": "41270",
+            "name_en": "Ansan-si",
+            "wikidata_id": "Q42117"
+        },
+        "dXJuOm1ieGJuZDpBUU1VZWc6djQ": {
+            "name": "고양시",
+            "code": "41280",
+            "name_en": "Goyang-si",
+            "wikidata_id": "Q42061"
+        },
+        "dXJuOm1ieGJuZDpYeFI2OnY0": {
+            "name": "과천시",
+            "code": "41290",
+            "name_en": "Gwacheon-si",
+            "wikidata_id": "Q42064"
+        },
+        "dXJuOm1ieGJuZDpZQlI2OnY0": {
+            "name": "구리시",
+            "code": "41310",
+            "name_en": "Guri-si",
+            "wikidata_id": "Q42071"
+        },
+        "dXJuOm1ieGJuZDpZUlI2OnY0": {
+            "name": "남양주시",
+            "code": "41360",
+            "name_en": "Namyangju-si",
+            "wikidata_id": "Q42084"
+        },
+        "dXJuOm1ieGJuZDpZaFI2OnY0": {
+            "name": "오산시",
+            "code": "41370",
+            "name_en": "Osan-si",
+            "wikidata_id": "Q42129"
+        },
+        "dXJuOm1ieGJuZDpZeFI2OnY0": {
+            "name": "시흥시",
+            "code": "41390",
+            "name_en": "Siheung-si",
+            "wikidata_id": "Q6824562"
+        },
+        "dXJuOm1ieGJuZDpaQlI2OnY0": {
+            "name": "군포시",
+            "code": "41410",
+            "name_en": "Gunpo-si",
+            "wikidata_id": "Q42075"
+        },
+        "dXJuOm1ieGJuZDpaUlI2OnY0": {
+            "name": "의왕시",
+            "code": "41430",
+            "name_en": "Uiwang-si",
+            "wikidata_id": "Q42134"
+        },
+        "dXJuOm1ieGJuZDpaaFI2OnY0": {
+            "name": "하남시",
+            "code": "41450",
+            "name_en": "Hanam-si",
+            "wikidata_id": "Q42159"
+        },
+        "dXJuOm1ieGJuZDpBUVVVZWc6djQ": {
+            "name": "용인시",
+            "code": "41460",
+            "name_en": "Yongin-si",
+            "wikidata_id": "Q18459"
+        },
+        "dXJuOm1ieGJuZDphaFI2OnY0": {
+            "name": "파주시",
+            "code": "41480",
+            "name_en": "Paju-si",
+            "wikidata_id": "Q42153"
+        },
+        "dXJuOm1ieGJuZDpheFI2OnY0": {
+            "name": "이천시",
+            "code": "41500",
+            "name_en": "Icheon-si",
+            "wikidata_id": "Q42136"
+        },
+        "dXJuOm1ieGJuZDpiQlI2OnY0": {
+            "name": "안성시",
+            "code": "41550",
+            "name_en": "Anseong-si",
+            "wikidata_id": "Q42119"
+        },
+        "dXJuOm1ieGJuZDpiUlI2OnY0": {
+            "name": "김포시",
+            "code": "41570",
+            "name_en": "Gimpo-si",
+            "wikidata_id": "Q42080"
+        },
+        "dXJuOm1ieGJuZDpiaFI2OnY0": {
+            "name": "화성시",
+            "code": "41590",
+            "name_en": "Hwaseong-si",
+            "wikidata_id": "Q42160"
+        },
+        "dXJuOm1ieGJuZDpieFI2OnY0": {
+            "name": "광주시",
+            "code": "41610",
+            "name_en": "Gwangju-si",
+            "wikidata_id": "Q42069"
+        },
+        "dXJuOm1ieGJuZDpjQlI2OnY0": {
+            "name": "양주시",
+            "code": "41630",
+            "name_en": "Yangju-si",
+            "wikidata_id": "Q42124"
+        },
+        "dXJuOm1ieGJuZDpjUlI2OnY0": {
+            "name": "포천시",
+            "code": "41650",
+            "name_en": "Pocheon-si",
+            "wikidata_id": "Q42155"
+        },
+        "dXJuOm1ieGJuZDpjaFI2OnY0": {
+            "name": "여주시",
+            "code": "41730",
+            "name_en": "Yeoju-si",
+            "wikidata_id": "Q50257"
+        },
+        "dXJuOm1ieGJuZDpjeFI2OnY0": {
+            "name": "연천군",
+            "code": "41800",
+            "name_en": "Yeoncheon-gun",
+            "wikidata_id": "Q50258"
+        },
+        "dXJuOm1ieGJuZDpkQlI2OnY0": {
+            "name": "가평군",
+            "code": "41820",
+            "name_en": "Gapyeong-gun",
+            "wikidata_id": "Q50203"
+        },
+        "dXJuOm1ieGJuZDpkUlI2OnY0": {
+            "name": "양평군",
+            "code": "41830",
+            "name_en": "Yangpyeong-gun",
+            "wikidata_id": "Q50255"
+        },
+        "dXJuOm1ieGJuZDpkaFI2OnY0": {
+            "name": "춘천시",
+            "code": "42110",
+            "name_en": "Chuncheon-si",
+            "wikidata_id": "Q42148"
+        },
+        "dXJuOm1ieGJuZDpkeFI2OnY0": {
+            "name": "원주시",
+            "code": "42130",
+            "name_en": "Wonju-si",
+            "wikidata_id": "Q42131"
+        },
+        "dXJuOm1ieGJuZDplQlI2OnY0": {
+            "name": "강릉시",
+            "code": "42150",
+            "name_en": "Gangneung-si",
+            "wikidata_id": "Q42056"
+        },
+        "dXJuOm1ieGJuZDplUlI2OnY0": {
+            "name": "동해시",
+            "code": "42170",
+            "name_en": "Donghae-si",
+            "wikidata_id": "Q42093"
+        },
+        "dXJuOm1ieGJuZDplaFI2OnY0": {
+            "name": "태백시",
+            "code": "42190",
+            "name_en": "Taebaek-si",
+            "wikidata_id": "Q42150"
+        },
+        "dXJuOm1ieGJuZDpleFI2OnY0": {
+            "name": "속초시",
+            "code": "42210",
+            "name_en": "Sokcho-si",
+            "wikidata_id": "Q42109"
+        },
+        "dXJuOm1ieGJuZDpmQlI2OnY0": {
+            "name": "삼척시",
+            "code": "42230",
+            "name_en": "Samcheok-si",
+            "wikidata_id": "Q42102"
+        },
+        "dXJuOm1ieGJuZDpmUlI2OnY0": {
+            "name": "홍천군",
+            "code": "42720",
+            "name_en": "Hongcheon-gun",
+            "wikidata_id": "Q50344"
+        },
+        "dXJuOm1ieGJuZDpmaFI2OnY0": {
+            "name": "횡성군",
+            "code": "42730",
+            "name_en": "Hoengseong-gun",
+            "wikidata_id": "Q50347"
+        },
+        "dXJuOm1ieGJuZDpmeFI2OnY0": {
+            "name": "영월군",
+            "code": "42750",
+            "name_en": "Yeongwol-gun",
+            "wikidata_id": "Q50306"
+        },
+        "dXJuOm1ieGJuZDpnQlI2OnY0": {
+            "name": "평창군",
+            "code": "42760",
+            "name_en": "Pyeongchang-gun",
+            "wikidata_id": "Q188624"
+        },
+        "dXJuOm1ieGJuZDpnUlI2OnY0": {
+            "name": "정선군",
+            "code": "42770",
+            "name_en": "Jeongseon-gun",
+            "wikidata_id": "Q50323"
+        },
+        "dXJuOm1ieGJuZDpnaFI2OnY0": {
+            "name": "철원군",
+            "code": "42780",
+            "name_en": "Cheorwon-gun",
+            "wikidata_id": "Q50329"
+        },
+        "dXJuOm1ieGJuZDpneFI2OnY0": {
+            "name": "화천군",
+            "code": "42790",
+            "name_en": "Hwacheon-gun",
+            "wikidata_id": "Q50346"
+        },
+        "dXJuOm1ieGJuZDpoQlI2OnY0": {
+            "name": "양구군",
+            "code": "42800",
+            "name_en": "Yanggu-gun",
+            "wikidata_id": "Q50253"
+        },
+        "dXJuOm1ieGJuZDpoUlI2OnY0": {
+            "name": "인제군",
+            "code": "42810",
+            "name_en": "Inje-gun",
+            "wikidata_id": "Q50318"
+        },
+        "dXJuOm1ieGJuZDpoaFI2OnY0": {
+            "name": "고성군",
+            "code": "42820",
+            "name_en": "Goseong-gun",
+            "wikidata_id": "Q50209"
+        },
+        "dXJuOm1ieGJuZDpoeFI2OnY0": {
+            "name": "양양군",
+            "code": "42830",
+            "name_en": "Yangyang-gun",
+            "wikidata_id": "Q50254"
+        },
+        "dXJuOm1ieGJuZDovUlI2OnY0": {
+            "name": "청주시",
+            "code": "43110",
+            "name_en": "Cheongju-si",
+            "wikidata_id": "Q42147"
+        },
+        "dXJuOm1ieGJuZDpqQlI2OnY0": {
+            "name": "충주시",
+            "code": "43130",
+            "name_en": "Chungju-si",
+            "wikidata_id": "Q31094"
+        },
+        "dXJuOm1ieGJuZDpqUlI2OnY0": {
+            "name": "제천시",
+            "code": "43150",
+            "name_en": "Jecheon-si",
+            "wikidata_id": "Q42143"
+        },
+        "dXJuOm1ieGJuZDpqaFI2OnY0": {
+            "name": "보은군",
+            "code": "43720",
+            "name_en": "Boeun-gun",
+            "wikidata_id": "Q50244"
+        },
+        "dXJuOm1ieGJuZDpqeFI2OnY0": {
+            "name": "옥천군",
+            "code": "43730",
+            "name_en": "Okcheon-gun",
+            "wikidata_id": "Q50309"
+        },
+        "dXJuOm1ieGJuZDprQlI2OnY0": {
+            "name": "영동군",
+            "code": "43740",
+            "name_en": "Yeongdong-gun",
+            "wikidata_id": "Q50261"
+        },
+        "dXJuOm1ieGJuZDprUlI2OnY0": {
+            "name": "증평군",
+            "code": "43745",
+            "name_en": "Jeungpyeong-gun",
+            "wikidata_id": "Q50324"
+        },
+        "dXJuOm1ieGJuZDpraFI2OnY0": {
+            "name": "진천군",
+            "code": "43750",
+            "name_en": "Jincheon-gun",
+            "wikidata_id": "Q50327"
+        },
+        "dXJuOm1ieGJuZDpreFI2OnY0": {
+            "name": "괴산군",
+            "code": "43760",
+            "name_en": "Goesan-gun",
+            "wikidata_id": "Q50213"
+        },
+        "dXJuOm1ieGJuZDpsQlI2OnY0": {
+            "name": "음성군",
+            "code": "43770",
+            "name_en": "Eumseong-gun",
+            "wikidata_id": "Q50315"
+        },
+        "dXJuOm1ieGJuZDpsUlI2OnY0": {
+            "name": "단양군",
+            "code": "43800",
+            "name_en": "Danyang-gun",
+            "wikidata_id": "Q50220"
+        },
+        "dXJuOm1ieGJuZDpBUVFVZWc6djQ": {
+            "name": "천안시",
+            "code": "44130",
+            "name_en": "Cheonan-si",
+            "wikidata_id": "Q42146"
+        },
+        "dXJuOm1ieGJuZDptQlI2OnY0": {
+            "name": "공주시",
+            "code": "44150",
+            "name_en": "Gongju-si",
+            "wikidata_id": "Q42062"
+        },
+        "dXJuOm1ieGJuZDptUlI2OnY0": {
+            "name": "보령시",
+            "code": "44180",
+            "name_en": "Boryeong-si",
+            "wikidata_id": "Q42098"
+        },
+        "dXJuOm1ieGJuZDptaFI2OnY0": {
+            "name": "아산시",
+            "code": "44200",
+            "name_en": "Asan-si",
+            "wikidata_id": "Q42114"
+        },
+        "dXJuOm1ieGJuZDpteFI2OnY0": {
+            "name": "서산시",
+            "code": "44210",
+            "name_en": "Seosan-si",
+            "wikidata_id": "Q42105"
+        },
+        "dXJuOm1ieGJuZDpuQlI2OnY0": {
+            "name": "논산시",
+            "code": "44230",
+            "name_en": "Nonsan-si",
+            "wikidata_id": "Q42088"
+        },
+        "dXJuOm1ieGJuZDpuUlI2OnY0": {
+            "name": "계룡시",
+            "code": "44250",
+            "name_en": "Gyeryong-si",
+            "wikidata_id": "Q42060"
+        },
+        "dXJuOm1ieGJuZDpuaFI2OnY0": {
+            "name": "당진시",
+            "code": "44270",
+            "name_en": "Dangjin-si",
+            "wikidata_id": "Q42089"
+        },
+        "dXJuOm1ieGJuZDpueFI2OnY0": {
+            "name": "금산군",
+            "code": "44710",
+            "name_en": "Geumsan-gun",
+            "wikidata_id": "Q50216"
+        },
+        "dXJuOm1ieGJuZDpvQlI2OnY0": {
+            "name": "부여군",
+            "code": "44760",
+            "name_en": "Buyeo-gun",
+            "wikidata_id": "Q50247"
+        },
+        "dXJuOm1ieGJuZDpvUlI2OnY0": {
+            "name": "서천군",
+            "code": "44770",
+            "name_en": "Seocheon-gun",
+            "wikidata_id": "Q50249"
+        },
+        "dXJuOm1ieGJuZDpvaFI2OnY0": {
+            "name": "청양군",
+            "code": "44790",
+            "name_en": "Cheongyang-gun",
+            "wikidata_id": "Q50332"
+        },
+        "dXJuOm1ieGJuZDpveFI2OnY0": {
+            "name": "홍성군",
+            "code": "44800",
+            "name_en": "Hongseong-gun",
+            "wikidata_id": "Q50343"
+        },
+        "dXJuOm1ieGJuZDpwQlI2OnY0": {
+            "name": "예산군",
+            "code": "44810",
+            "name_en": "Yesan-gun",
+            "wikidata_id": "Q50307"
+        },
+        "dXJuOm1ieGJuZDpwUlI2OnY0": {
+            "name": "태안군",
+            "code": "44825",
+            "name_en": "Taean-gun",
+            "wikidata_id": "Q50335"
+        },
+        "dXJuOm1ieGJuZDovaFI2OnY0": {
+            "name": "전주시",
+            "code": "45110",
+            "name_en": "Jeonju-si",
+            "wikidata_id": "Q42140"
+        },
+        "dXJuOm1ieGJuZDpxQlI2OnY0": {
+            "name": "군산시",
+            "code": "45130",
+            "name_en": "Gunsan-si",
+            "wikidata_id": "Q42074"
+        },
+        "dXJuOm1ieGJuZDpxUlI2OnY0": {
+            "name": "익산시",
+            "code": "45140",
+            "name_en": "Iksan-si",
+            "wikidata_id": "Q42137"
+        },
+        "dXJuOm1ieGJuZDpxaFI2OnY0": {
+            "name": "정읍시",
+            "code": "45180",
+            "name_en": "Jeongeup-si",
+            "wikidata_id": "Q42141"
+        },
+        "dXJuOm1ieGJuZDpxeFI2OnY0": {
+            "name": "남원시",
+            "code": "45190",
+            "name_en": "Namwon-si",
+            "wikidata_id": "Q42087"
+        },
+        "dXJuOm1ieGJuZDpyQlI2OnY0": {
+            "name": "김제시",
+            "code": "45210",
+            "name_en": "Gimje-si",
+            "wikidata_id": "Q42077"
+        },
+        "dXJuOm1ieGJuZDpyUlI2OnY0": {
+            "name": "완주군",
+            "code": "45710",
+            "name_en": "Wanju-gun",
+            "wikidata_id": "Q50312"
+        },
+        "dXJuOm1ieGJuZDpyaFI2OnY0": {
+            "name": "진안군",
+            "code": "45720",
+            "name_en": "Jinan-gun",
+            "wikidata_id": "Q50326"
+        },
+        "dXJuOm1ieGJuZDpyeFI2OnY0": {
+            "name": "무주군",
+            "code": "45730",
+            "name_en": "Muju-gun",
+            "wikidata_id": "Q50242"
+        },
+        "dXJuOm1ieGJuZDpzQlI2OnY0": {
+            "name": "장수군",
+            "code": "45740",
+            "name_en": "Jangsu-gun",
+            "wikidata_id": "Q50321"
+        },
+        "dXJuOm1ieGJuZDpzUlI2OnY0": {
+            "name": "임실군",
+            "code": "45750",
+            "name_en": "Imsil-gun",
+            "wikidata_id": "Q50319"
+        },
+        "dXJuOm1ieGJuZDpzaFI2OnY0": {
+            "name": "순창군",
+            "code": "45770",
+            "name_en": "Sunchang-gun",
+            "wikidata_id": "Q50251"
+        },
+        "dXJuOm1ieGJuZDpzeFI2OnY0": {
+            "name": "고창군",
+            "code": "45790",
+            "name_en": "Gochang-gun",
+            "wikidata_id": "Q50210"
+        },
+        "dXJuOm1ieGJuZDp0QlI2OnY0": {
+            "name": "부안군",
+            "code": "45800",
+            "name_en": "Buan-gun",
+            "wikidata_id": "Q50246"
+        },
+        "dXJuOm1ieGJuZDp0UlI2OnY0": {
+            "name": "목포시",
+            "code": "46110",
+            "name_en": "Mokpo-si",
+            "wikidata_id": "Q42094"
+        },
+        "dXJuOm1ieGJuZDp0aFI2OnY0": {
+            "name": "여수시",
+            "code": "46130",
+            "name_en": "Yeosu-si",
+            "wikidata_id": "Q42125"
+        },
+        "dXJuOm1ieGJuZDp0eFI2OnY0": {
+            "name": "순천시",
+            "code": "46150",
+            "name_en": "Suncheon-si",
+            "wikidata_id": "Q42112"
+        },
+        "dXJuOm1ieGJuZDp1QlI2OnY0": {
+            "name": "나주시",
+            "code": "46170",
+            "name_en": "Naju-si",
+            "wikidata_id": "Q42083"
+        },
+        "dXJuOm1ieGJuZDp1UlI2OnY0": {
+            "name": "광양시",
+            "code": "46230",
+            "name_en": "Gwangyang-si",
+            "wikidata_id": "Q42067"
+        },
+        "dXJuOm1ieGJuZDp1aFI2OnY0": {
+            "name": "담양군",
+            "code": "46710",
+            "name_en": "Damyang-gun",
+            "wikidata_id": "Q50240"
+        },
+        "dXJuOm1ieGJuZDp1eFI2OnY0": {
+            "name": "곡성군",
+            "code": "46720",
+            "name_en": "Gokseong-gun",
+            "wikidata_id": "Q50212"
+        },
+        "dXJuOm1ieGJuZDp2QlI2OnY0": {
+            "name": "구례군",
+            "code": "46730",
+            "name_en": "Gurye-gun",
+            "wikidata_id": "Q50214"
+        },
+        "dXJuOm1ieGJuZDp2UlI2OnY0": {
+            "name": "고흥군",
+            "code": "46770",
+            "name_en": "Goheung-gun",
+            "wikidata_id": "Q50211"
+        },
+        "dXJuOm1ieGJuZDp2aFI2OnY0": {
+            "name": "보성군",
+            "code": "46780",
+            "name_en": "Boseong-gun",
+            "wikidata_id": "Q50243"
+        },
+        "dXJuOm1ieGJuZDp2eFI2OnY0": {
+            "name": "화순군",
+            "code": "46790",
+            "name_en": "Hwasun-gun",
+            "wikidata_id": "Q50345"
+        },
+        "dXJuOm1ieGJuZDp3QlI2OnY0": {
+            "name": "장흥군",
+            "code": "46800",
+            "name_en": "Jangheung-gun",
+            "wikidata_id": "Q50322"
+        },
+        "dXJuOm1ieGJuZDp3UlI2OnY0": {
+            "name": "강진군",
+            "code": "46810",
+            "name_en": "Gangjin-gun",
+            "wikidata_id": "Q50204"
+        },
+        "dXJuOm1ieGJuZDp3aFI2OnY0": {
+            "name": "해남군",
+            "code": "46820",
+            "name_en": "Haenam-gun",
+            "wikidata_id": "Q50342"
+        },
+        "dXJuOm1ieGJuZDp3eFI2OnY0": {
+            "name": "영암군",
+            "code": "46830",
+            "name_en": "Yeongam-gun",
+            "wikidata_id": "Q50262"
+        },
+        "dXJuOm1ieGJuZDp4QlI2OnY0": {
+            "name": "무안군",
+            "code": "46840",
+            "name_en": "Muan-gun",
+            "wikidata_id": "Q50241"
+        },
+        "dXJuOm1ieGJuZDp4UlI2OnY0": {
+            "name": "함평군",
+            "code": "46860",
+            "name_en": "Hampyeong-gun",
+            "wikidata_id": "Q50340"
+        },
+        "dXJuOm1ieGJuZDp4aFI2OnY0": {
+            "name": "영광군",
+            "code": "46870",
+            "name_en": "Yeonggwang-gun",
+            "wikidata_id": "Q50259"
+        },
+        "dXJuOm1ieGJuZDp4eFI2OnY0": {
+            "name": "장성군",
+            "code": "46880",
+            "name_en": "Jangseong-gun",
+            "wikidata_id": "Q50320"
+        },
+        "dXJuOm1ieGJuZDp5QlI2OnY0": {
+            "name": "완도군",
+            "code": "46890",
+            "name_en": "Wando-gun",
+            "wikidata_id": "Q50311"
+        },
+        "dXJuOm1ieGJuZDp5UlI2OnY0": {
+            "name": "진도군",
+            "code": "46900",
+            "name_en": "Jindo-gun",
+            "wikidata_id": "Q50325"
+        },
+        "dXJuOm1ieGJuZDp5aFI2OnY0": {
+            "name": "신안군",
+            "code": "46910",
+            "name_en": "Sinan-gun",
+            "wikidata_id": "Q50252"
+        },
+        "dXJuOm1ieGJuZDoveFI2OnY0": {
+            "name": "포항시",
+            "code": "47110",
+            "name_en": "Pohang-si",
+            "wikidata_id": "Q42157"
+        },
+        "dXJuOm1ieGJuZDp6UlI2OnY0": {
+            "name": "경주시",
+            "code": "47130",
+            "name_en": "Gyeongju-si",
+            "wikidata_id": "Q42097"
+        },
+        "dXJuOm1ieGJuZDp6aFI2OnY0": {
+            "name": "김천시",
+            "code": "47150",
+            "name_en": "Gimcheon-si",
+            "wikidata_id": "Q42078"
+        },
+        "dXJuOm1ieGJuZDp6eFI2OnY0": {
+            "name": "안동시",
+            "code": "47170",
+            "name_en": "Andong-si",
+            "wikidata_id": "Q42116"
+        },
+        "dXJuOm1ieGJuZDowQlI2OnY0": {
+            "name": "구미시",
+            "code": "47190",
+            "name_en": "Gumi-si",
+            "wikidata_id": "Q42073"
+        },
+        "dXJuOm1ieGJuZDowUlI2OnY0": {
+            "name": "영주시",
+            "code": "47210",
+            "name_en": "Yeongju-si",
+            "wikidata_id": "Q42126"
+        },
+        "dXJuOm1ieGJuZDowaFI2OnY0": {
+            "name": "영천시",
+            "code": "47230",
+            "name_en": "Yeongcheon-si",
+            "wikidata_id": "Q42128"
+        },
+        "dXJuOm1ieGJuZDoweFI2OnY0": {
+            "name": "상주시",
+            "code": "47250",
+            "name_en": "Sangju-si",
+            "wikidata_id": "Q42163"
+        },
+        "dXJuOm1ieGJuZDoxQlI2OnY0": {
+            "name": "문경시",
+            "code": "47280",
+            "name_en": "Mungyeong-si",
+            "wikidata_id": "Q42095"
+        },
+        "dXJuOm1ieGJuZDoxUlI2OnY0": {
+            "name": "경산시",
+            "code": "47290",
+            "name_en": "Gyeongsan-si",
+            "wikidata_id": "Q42059"
+        },
+        "dXJuOm1ieGJuZDoxaFI2OnY0": {
+            "name": "군위군",
+            "code": "47720",
+            "name_en": "Gunwi-gun",
+            "wikidata_id": "Q50215"
+        },
+        "dXJuOm1ieGJuZDoxeFI2OnY0": {
+            "name": "의성군",
+            "code": "47730",
+            "name_en": "Uiseong-gun",
+            "wikidata_id": "Q50317"
+        },
+        "dXJuOm1ieGJuZDoyQlI2OnY0": {
+            "name": "청송군",
+            "code": "47750",
+            "name_en": "Cheongsong-gun",
+            "wikidata_id": "Q50331"
+        },
+        "dXJuOm1ieGJuZDoyUlI2OnY0": {
+            "name": "영양군",
+            "code": "47760",
+            "name_en": "Yeongyang-gun",
+            "wikidata_id": "Q50263"
+        },
+        "dXJuOm1ieGJuZDoyaFI2OnY0": {
+            "name": "영덕군",
+            "code": "47770",
+            "name_en": "Yeongdeok-gun",
+            "wikidata_id": "Q50260"
+        },
+        "dXJuOm1ieGJuZDoyeFI2OnY0": {
+            "name": "청도군",
+            "code": "47820",
+            "name_en": "Cheongdo-gun",
+            "wikidata_id": "Q50330"
+        },
+        "dXJuOm1ieGJuZDozQlI2OnY0": {
+            "name": "고령군",
+            "code": "47830",
+            "name_en": "Goryeong-gun",
+            "wikidata_id": "Q50207"
+        },
+        "dXJuOm1ieGJuZDozUlI2OnY0": {
+            "name": "성주군",
+            "code": "47840",
+            "name_en": "Seongju-gun",
+            "wikidata_id": "Q50250"
+        },
+        "dXJuOm1ieGJuZDozaFI2OnY0": {
+            "name": "칠곡군",
+            "code": "47850",
+            "name_en": "Chilgok-gun",
+            "wikidata_id": "Q50334"
+        },
+        "dXJuOm1ieGJuZDozeFI2OnY0": {
+            "name": "예천군",
+            "code": "47900",
+            "name_en": "Yecheon-gun",
+            "wikidata_id": "Q50308"
+        },
+        "dXJuOm1ieGJuZDo0QlI2OnY0": {
+            "name": "봉화군",
+            "code": "47920",
+            "name_en": "Bonghwa-gun",
+            "wikidata_id": "Q50245"
+        },
+        "dXJuOm1ieGJuZDo0UlI2OnY0": {
+            "name": "울진군",
+            "code": "47930",
+            "name_en": "Uljin-gun",
+            "wikidata_id": "Q50314"
+        },
+        "dXJuOm1ieGJuZDpBUUFVZWc6djQ": {
+            "name": "창원시",
+            "code": "48120",
+            "name_en": "Changwon-si",
+            "wikidata_id": "Q243327"
+        },
+        "dXJuOm1ieGJuZDo2QlI2OnY0": {
+            "name": "진주시",
+            "code": "48170",
+            "name_en": "Jinju-si",
+            "wikidata_id": "Q42144"
+        },
+        "dXJuOm1ieGJuZDo2UlI2OnY0": {
+            "name": "통영시",
+            "code": "48220",
+            "name_en": "Tongyeong-si",
+            "wikidata_id": "Q42152"
+        },
+        "dXJuOm1ieGJuZDo2aFI2OnY0": {
+            "name": "사천시",
+            "code": "48240",
+            "name_en": "Sacheon-si",
+            "wikidata_id": "Q42100"
+        },
+        "dXJuOm1ieGJuZDo2eFI2OnY0": {
+            "name": "김해시",
+            "code": "48250",
+            "name_en": "Gimhae-si",
+            "wikidata_id": "Q42082"
+        },
+        "dXJuOm1ieGJuZDo3QlI2OnY0": {
+            "name": "밀양시",
+            "code": "48270",
+            "name_en": "Miryang-si",
+            "wikidata_id": "Q42096"
+        },
+        "dXJuOm1ieGJuZDo3UlI2OnY0": {
+            "name": "거제시",
+            "code": "48310",
+            "name_en": "Geoje-si",
+            "wikidata_id": "Q42057"
+        },
+        "dXJuOm1ieGJuZDo3aFI2OnY0": {
+            "name": "양산시",
+            "code": "48330",
+            "name_en": "Yangsan-si",
+            "wikidata_id": "Q42123"
+        },
+        "dXJuOm1ieGJuZDo3eFI2OnY0": {
+            "name": "의령군",
+            "code": "48720",
+            "name_en": "Uiryeong-gun",
+            "wikidata_id": "Q50316"
+        },
+        "dXJuOm1ieGJuZDo4QlI2OnY0": {
+            "name": "함안군",
+            "code": "48730",
+            "name_en": "Haman-gun",
+            "wikidata_id": "Q50338"
+        },
+        "dXJuOm1ieGJuZDo4UlI2OnY0": {
+            "name": "창녕군",
+            "code": "48740",
+            "name_en": "Changnyeong-gun",
+            "wikidata_id": "Q50328"
+        },
+        "dXJuOm1ieGJuZDo4aFI2OnY0": {
+            "name": "고성군",
+            "code": "48820",
+            "name_en": "Goseong-gun",
+            "wikidata_id": "Q50208"
+        },
+        "dXJuOm1ieGJuZDo4eFI2OnY0": {
+            "name": "남해군",
+            "code": "48840",
+            "name_en": "Namhae-gun",
+            "wikidata_id": "Q26123"
+        },
+        "dXJuOm1ieGJuZDo5QlI2OnY0": {
+            "name": "하동군",
+            "code": "48850",
+            "name_en": "Hadong-gun",
+            "wikidata_id": "Q26212"
+        },
+        "dXJuOm1ieGJuZDo5UlI2OnY0": {
+            "name": "산청군",
+            "code": "48860",
+            "name_en": "Sancheong-gun",
+            "wikidata_id": "Q50248"
+        },
+        "dXJuOm1ieGJuZDo5aFI2OnY0": {
+            "name": "함양군",
+            "code": "48870",
+            "name_en": "Hamyang-gun",
+            "wikidata_id": "Q50339"
+        },
+        "dXJuOm1ieGJuZDo5eFI2OnY0": {
+            "name": "거창군",
+            "code": "48880",
+            "name_en": "Geochang-gun",
+            "wikidata_id": "Q50206"
+        },
+        "dXJuOm1ieGJuZDorQlI2OnY0": {
+            "name": "합천군",
+            "code": "48890",
+            "name_en": "Hapcheon-gun",
+            "wikidata_id": "Q50341"
+        },
+        "dXJuOm1ieGJuZDorUlI2OnY0": {
+            "name": "제주시",
+            "code": "50110",
+            "name_en": "Jeju-si",
+            "wikidata_id": "Q42142"
+        },
+        "dXJuOm1ieGJuZDoraFI2OnY0": {
+            "name": "서귀포시",
+            "code": "50130",
+            "name_en": "Seogwipo-si",
+            "wikidata_id": "Q42103"
+        }
+    },
+    "AR": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "CN": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "IN": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "JP": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "MA": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "RS": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "RU": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "TR": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    },
+    "US": {
+        "dXJuOm1ieGJuZDo0aFI2OnY0": {
+            "name": "울릉군",
+            "code": "47940",
+            "name_en": "Ulleung-gun",
+            "wikidata_id": "Q485570"
+        }
+    }
+}

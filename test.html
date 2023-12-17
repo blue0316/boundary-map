@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Join local JSON data with Mapbox Boundaries v4</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+
+      .tooltip {
+        position: absolute;
+        background: rgba(0, 0, 0, 0.7);
+        color: #fff;
+        padding: 5px;
+        border-radius: 3px;
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="tooltip" class="tooltip"></div>
+    <script>
+      mapboxgl.accessToken =
+        "pk.eyJ1Ijoid2VhdGhlciIsImEiOiJjamxncnYwMmYxYXgxM3BzNWEyNHUzbmhhIn0.UqrZwn6qTa6WJwdHjPVUfA";
+
+      // Initialize a map
+      const map = new mapboxgl.Map({
+        container: "map",
+        style: "mapbox://styles/mapbox/light-v11",
+        center: [-99.9, 41.5],
+        //127, 38.5
+        zoom: 3,
+      });
+
+      // Local data code from the next step will go here.
+      map.on("load", function () {
+        // Add a vector source for admin-2 boundaries
+        map.addSource("admin-2", {
+          type: "vector",
+          url: "mapbox://mapbox.boundaries-adm2-v4",
+          promoteId: "mapbox_id",
+        });
+
+        // Define a filter for US worldview boundaries
+        let worldviewFilter = [
+          "any",
+          ["==", "all", ["get", "worldview"]],
+          ["in", "UK", ["get", "worldview"]],
+        ];
+
+        // Add a style layer with the admin-2 source below map labels
+        map.addLayer(
+          {
+            id: "admin-2fill",
+            type: "fill",
+            source: "admin-2",
+            "source-layer": "boundaries_admin_2",
+            filter: worldviewFilter,
+            paint: {
+              "fill-color": "#CCCCCC",
+              "fill-opacity": 0.5,
+            },
+          },
+          // This final argument indicates that we want to add the Boundaries layer
+          // before the `waterway-label` layer that is in the map from the Mapbox
+          // Light style. This ensures the admin polygons are rendered below any labels
+          "waterway-label"
+        );
+      });
+
+      // Add interactivity - show tooltip on hover
+      map.on("mousemove", "admin-2fill", function (e) {
+        const features = map.queryRenderedFeatures(e.point, {
+          layers: ["admin-2fill"],
+        });
+
+        console.log(features);
+
+        if (features.length > 0) {
+          const feature = features[0];
+          const locationName = feature.properties.name;
+          const tooltip = document.getElementById("tooltip");
+
+          tooltip.style.display = "block";
+          tooltip.style.left = e.point.x + "px";
+          tooltip.style.top = e.point.y + "px";
+          tooltip.innerHTML = locationName;
+        } else {
+          document.getElementById("tooltip").style.display = "none";
+        }
+      });
+
+      // Hide tooltip on mouse leave
+      map.on("mouseleave", "admin-2fill", function () {
+        document.getElementById("tooltip").style.display = "none";
+      });
+    </script>
+  </body>
+</html>
